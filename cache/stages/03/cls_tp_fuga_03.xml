@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="03"><![CDATA[]]></tappa>
+  <localita><![CDATA[Arnhem - km 190]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="58"><![CDATA[VAN ZYL Johann]]></nome>
+       <nazione>RSA</nazione>
+       <squadra id="DDD"><![CDATA[TEAM DIMENSION DATA]]></squadra>
+       <tempo>188</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="132"><![CDATA[BERLATO Giacomo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="NIP"><![CDATA[NIPPO - VINI FANTINI]]></squadra>
+       <tempo>178</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="178"><![CDATA[TJALLINGII Maarten]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra>
+       <tempo>178</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="212"><![CDATA[AMEZQUETA Julen]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="STH"><![CDATA[WILIER TRIESTINA - SOUTHEAST]]></squadra>
+       <tempo>174</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

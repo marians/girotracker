@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="04"><![CDATA[Maglia Azzurra]]></tappa>   
+  <localita><![CDATA[San Pietro - km 150]]></localita>
+  <virtuale>0</virtuale>
+<classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="131"><![CDATA[CUNEGO Damiano]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="NIP"><![CDATA[NIPPO - VINI FANTINI]]></squadra>
+       <tempo>7</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="21"><![CDATA[PIRAZZI Stefano]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra>
+       <tempo>4</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="157"><![CDATA[PREIDLER Georg]]></nome>
+       <nazione>AUT</nazione>
+       <squadra id="TGA"><![CDATA[TEAM GIANT - ALPECIN]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="151"><![CDATA[DUMOULIN Tom]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="TGA"><![CDATA[TEAM GIANT - ALPECIN]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

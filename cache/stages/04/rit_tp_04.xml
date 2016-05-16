@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="04"><![CDATA[Elenco ritirati]]></tappa>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>DNF</pos>
+       <nome numero="75"><![CDATA[GENIEZ Alexandre]]></nome>
+       <nazione>FRA</nazione>
+       <squadra id="FDJ"><![CDATA[FDJ]]></squadra> 
+      </item>
+		
+  </classifica>
+</feed>

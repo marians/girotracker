@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="05"><![CDATA[Traguardo Volante]]></tappa>
+  <localita><![CDATA[Palamonte - km 118]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="36"><![CDATA[OSS Daniel]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>10</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="85"><![CDATA[FOLIFOROV Alexander]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="GAZ"><![CDATA[GAZPROM - RUSVELO]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="149"><![CDATA[TXURRUKA Amets]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="OGE"><![CDATA[ORICA GREENEDGE]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="193"><![CDATA[BRUTT Pavel]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="TNK"><![CDATA[TINKOFF]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="71"><![CDATA[DEMARE Arnaud]]></nome>
+       <nazione>FRA</nazione>
+       <squadra id="FDJ"><![CDATA[FDJ]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="73"><![CDATA[DELAGE Mickael]]></nome>
+       <nazione>FRA</nazione>
+       <squadra id="FDJ"><![CDATA[FDJ]]></squadra>
+       <tempo>0</tempo> 
+      </item>
+      <item> 
+       <pos>7</pos>
+       <nome numero="189"><![CDATA[VIVIANI Elia]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="SKY"><![CDATA[TEAM SKY]]></squadra>
+       <tempo>0</tempo> 
+      </item>
+      <item> 
+       <pos>8</pos>
+       <nome numero="72"><![CDATA[COURTEILLE Arnaud]]></nome>
+       <nazione>FRA</nazione>
+       <squadra id="FDJ"><![CDATA[FDJ]]></squadra>
+       <tempo>0</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

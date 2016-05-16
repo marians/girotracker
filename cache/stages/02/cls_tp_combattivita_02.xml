@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="02"><![CDATA[Combattivit&#224;]]></tappa>
+  <localita><![CDATA[Nijmegen - km 190]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="178"><![CDATA[TJALLINGII Maarten]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra>
+       <tempo>10</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="52"><![CDATA[FRAILE MATARRANZ Omar]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="DDD"><![CDATA[TEAM DIMENSION DATA]]></squadra>
+       <tempo>8</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="132"><![CDATA[BERLATO Giacomo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="NIP"><![CDATA[NIPPO - VINI FANTINI]]></squadra>
+       <tempo>7</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="61"><![CDATA[KITTEL Marcel]]></nome>
+       <nazione>GER</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="71"><![CDATA[DEMARE Arnaud]]></nome>
+       <nazione>FRA</nazione>
+       <squadra id="FDJ"><![CDATA[FDJ]]></squadra>
+       <tempo>5</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="104"><![CDATA[MODOLO Sacha]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>5</tempo> 
+      </item>
+      <item> 
+       <pos>7</pos>
+       <nome numero="207"><![CDATA[NIZZOLO Giacomo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="TFS"><![CDATA[TREK - SEGAFREDO]]></squadra>
+       <tempo>4</tempo> 
+      </item>
+      <item> 
+       <pos>8</pos>
+       <nome numero="173"><![CDATA[HOFLAND Moreno]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>9</pos>
+       <nome numero="29"><![CDATA[RUFFONI Nicola]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>10</pos>
+       <nome numero="166"><![CDATA[PORSEV Alexander]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="KAT"><![CDATA[TEAM KATUSHA]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+      <item> 
+       <pos>11</pos>
+       <nome numero="189"><![CDATA[VIVIANI Elia]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="SKY"><![CDATA[TEAM SKY]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

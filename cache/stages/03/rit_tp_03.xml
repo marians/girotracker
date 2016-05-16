@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="03"><![CDATA[Elenco ritirati]]></tappa>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>DNF</pos>
+       <nome numero="9"><![CDATA[PERAUD Jean Christophe]]></nome>
+       <nazione>FRA</nazione>
+       <squadra id="ALM"><![CDATA[AG2R LA MONDIALE]]></squadra> 
+      </item>
+      <item> 
+       <pos>DNF</pos>
+       <nome numero="34"><![CDATA[DILLIER Silvan]]></nome>
+       <nazione>SUI</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra> 
+      </item>
+		
+  </classifica>
+</feed>

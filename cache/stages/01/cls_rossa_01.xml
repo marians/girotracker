@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="01"><![CDATA[]]></tappa>
+  <localita><![CDATA[Apeldoorn - km 9]]></localita>
+  <virtuale>1</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="151"><![CDATA[DUMOULIN Tom]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="TGA"><![CDATA[TEAM GIANT - ALPECIN]]></squadra>
+       <tempo>15</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="176"><![CDATA[ROGLIC Primoz]]></nome>
+       <nazione>SLO</nazione>
+       <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra>
+       <tempo>12</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="122"><![CDATA[AMADOR Andrey]]></nome>
+       <nazione>CRC</nazione>
+       <squadra id="MOV"><![CDATA[MOVISTAR TEAM]]></squadra>
+       <tempo>9</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="156"><![CDATA[LUDVIGSSON Tobias]]></nome>
+       <nazione>SWE</nazione>
+       <squadra id="TGA"><![CDATA[TEAM GIANT - ALPECIN]]></squadra>
+       <tempo>7</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="61"><![CDATA[KITTEL Marcel]]></nome>
+       <nazione>GER</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="46"><![CDATA[MOSER Moreno]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="CPT"><![CDATA[CANNONDALE PRO CYCLING TEAM]]></squadra>
+       <tempo>5</tempo> 
+      </item>
+      <item> 
+       <pos>7</pos>
+       <nome numero="64"><![CDATA[JUNGELS Bob]]></nome>
+       <nazione>LUX</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>4</tempo> 
+      </item>
+      <item> 
+       <pos>8</pos>
+       <nome numero="204"><![CDATA[CANCELLARA Fabian]]></nome>
+       <nazione>SUI</nazione>
+       <squadra id="TFS"><![CDATA[TREK - SEGAFREDO]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>9</pos>
+       <nome numero="92"><![CDATA[BRANDLE Matthias]]></nome>
+       <nazione>AUT</nazione>
+       <squadra id="IAM"><![CDATA[IAM CYCLING]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>10</pos>
+       <nome numero="34"><![CDATA[DILLIER Silvan]]></nome>
+       <nazione>SUI</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

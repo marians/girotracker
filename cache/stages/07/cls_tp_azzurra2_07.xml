@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="07"><![CDATA[Maglia Azzurra]]></tappa>   
+  <localita><![CDATA[Valico della Somma - km 170]]></localita>
+  <virtuale>0</virtuale>
+<classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="218"><![CDATA[MARTINEZ Daniel]]></nome>
+       <nazione>COL</nazione>
+       <squadra id="WIL"><![CDATA[WILIER TRIESTINA - SOUTHEAST]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="26"><![CDATA[CICCONE Giulio]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="3"><![CDATA[DOMONT Axel]]></nome>
+       <nazione>FRA</nazione>
+       <squadra id="ALM"><![CDATA[AG2R LA MONDIALE]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

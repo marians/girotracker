@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="07"><![CDATA[Elenco ritirati]]></tappa>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>DNS</pos>
+       <nome numero="97"><![CDATA[WARBASSE Lawrence]]></nome>
+       <nazione>USA</nazione>
+       <squadra id="IAM"><![CDATA[IAM CYCLING]]></squadra> 
+      </item>
+      <item> 
+       <pos>DNF</pos>
+       <nome numero="125"><![CDATA[MORENO Javier]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="MOV"><![CDATA[MOVISTAR TEAM]]></squadra> 
+      </item>
+		
+  </classifica>
+</feed>

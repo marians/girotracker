@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="09"><![CDATA[Maglia Rossa]]></tappa>
+  <localita><![CDATA[Greve in Chianti - km 40]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="176"><![CDATA[ROGLIC Primoz]]></nome>
+       <nazione>SVN</nazione>
+       <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra>
+       <tempo>15</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="92"><![CDATA[BRANDLE Matthias]]></nome>
+       <nazione>AUT</nazione>
+       <squadra id="IAM"><![CDATA[IAM CYCLING]]></squadra>
+       <tempo>12</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="99"><![CDATA[LAENGEN Vegard Stake]]></nome>
+       <nazione>NOR</nazione>
+       <squadra id="IAM"><![CDATA[IAM CYCLING]]></squadra>
+       <tempo>9</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="204"><![CDATA[CANCELLARA Fabian]]></nome>
+       <nazione>SUI</nazione>
+       <squadra id="TFS"><![CDATA[TREK - SEGAFREDO]]></squadra>
+       <tempo>7</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="165"><![CDATA[VOROBYEV Anton]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="KAT"><![CDATA[TEAM KATUSHA]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="64"><![CDATA[JUNGELS Bob]]></nome>
+       <nazione>LUX</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>5</tempo> 
+      </item>
+      <item> 
+       <pos>7</pos>
+       <nome numero="35"><![CDATA[KUNG Stefan]]></nome>
+       <nazione>SUI</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>4</tempo> 
+      </item>
+      <item> 
+       <pos>8</pos>
+       <nome numero="179"><![CDATA[VAN EMDEN Jos]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>9</pos>
+       <nome numero="178"><![CDATA[TJALLINGII Maarten]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>10</pos>
+       <nome numero="122"><![CDATA[AMADOR Andrey]]></nome>
+       <nazione>CRC</nazione>
+       <squadra id="MOV"><![CDATA[MOVISTAR TEAM]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

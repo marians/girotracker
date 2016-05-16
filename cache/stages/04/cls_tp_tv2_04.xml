@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="04"><![CDATA[Traguardo Volante]]></tappa>
+  <localita><![CDATA[Scalea - km 175]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="66"><![CDATA[SERRY Pieter]]></nome>
+       <nazione>BEL</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>10</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="3"><![CDATA[DOMONT Axel]]></nome>
+       <nazione>FRA</nazione>
+       <squadra id="ALM"><![CDATA[AG2R LA MONDIALE]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="21"><![CDATA[PIRAZZI Stefano]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="33"><![CDATA[DE MARCHI Alessandro]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="111"><![CDATA[WELLENS Tim]]></nome>
+       <nazione>BEL</nazione>
+       <squadra id="LTS"><![CDATA[LOTTO SOUDAL]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="101"><![CDATA[CONTI Valerio]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>0</tempo> 
+      </item>
+      <item> 
+       <pos>7</pos>
+       <nome numero="187"><![CDATA[LOPEZ GARCIA David]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="SKY"><![CDATA[TEAM SKY]]></squadra>
+       <tempo>0</tempo> 
+      </item>
+      <item> 
+       <pos>8</pos>
+       <nome numero="192"><![CDATA[BOARO Manuele]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="TNK"><![CDATA[TINKOFF]]></squadra>
+       <tempo>0</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

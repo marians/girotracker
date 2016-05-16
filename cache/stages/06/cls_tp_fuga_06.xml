@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="06"><![CDATA[]]></tappa>
+  <localita><![CDATA[Roccaraso (Aremogna) - km 157]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="219"><![CDATA[ZHUPA Eugert]]></nome>
+       <nazione>ALB</nazione>
+       <squadra id="WIL"><![CDATA[WILIER TRIESTINA - SOUTHEAST]]></squadra>
+       <tempo>129</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="133"><![CDATA[BISOLTI Alessandro]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="NIP"><![CDATA[NIPPO - VINI FANTINI]]></squadra>
+       <tempo>112</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="111"><![CDATA[WELLENS Tim]]></nome>
+       <nazione>BEL</nazione>
+       <squadra id="LTS"><![CDATA[LOTTO SOUDAL]]></squadra>
+       <tempo>63</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="81"><![CDATA[KOLOBNEV Alexandr]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="GAZ"><![CDATA[GAZPROM - RUSVELO]]></squadra>
+       <tempo>55</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="206"><![CDATA[DIDIER Laurent]]></nome>
+       <nazione>LUX</nazione>
+       <squadra id="TFS"><![CDATA[TREK - SEGAFREDO]]></squadra>
+       <tempo>48</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="116"><![CDATA[LIGTHART Pim]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="LTS"><![CDATA[LOTTO SOUDAL]]></squadra>
+       <tempo>47</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="107"><![CDATA[NIEMIEC Przemyslaw]]></nome>
+       <nazione>POL</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>10</tempo> 
+      </item>
+      <item> 
+       <pos>7</pos>
+       <nome numero="205"><![CDATA[COLEDAN Marco]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="TFS"><![CDATA[TREK - SEGAFREDO]]></squadra>
+       <tempo>10</tempo> 
+      </item>
+      <item> 
+       <pos>8</pos>
+       <nome numero="132"><![CDATA[BERLATO Giacomo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="NIP"><![CDATA[NIPPO - VINI FANTINI]]></squadra>
+       <tempo>10</tempo> 
+      </item>
+      <item> 
+       <pos>9</pos>
+       <nome numero="218"><![CDATA[MARTINEZ Daniel]]></nome>
+       <nazione>COL</nazione>
+       <squadra id="WIL"><![CDATA[WILIER TRIESTINA - SOUTHEAST]]></squadra>
+       <tempo>10</tempo> 
+      </item>
+      <item> 
+       <pos>10</pos>
+       <nome numero="86"><![CDATA[OVECHKIN Artem]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="GAZ"><![CDATA[GAZPROM - RUSVELO]]></squadra>
+       <tempo>10</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

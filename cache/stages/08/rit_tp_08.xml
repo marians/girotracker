@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="08"><![CDATA[Elenco ritirati]]></tappa>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>FTM</pos>
+       <nome numero="136"><![CDATA[FILOSI Iuri]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="NIP"><![CDATA[NIPPO - VINI FANTINI]]></squadra> 
+      </item>
+      <item> 
+       <pos>FTM</pos>
+       <nome numero="189"><![CDATA[VIVIANI Elia]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="SKY"><![CDATA[TEAM SKY]]></squadra> 
+      </item>
+      <item> 
+       <pos>FTM</pos>
+       <nome numero="208"><![CDATA[VAN POPPEL Boy]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="TFS"><![CDATA[TREK - SEGAFREDO]]></squadra> 
+      </item>
+		
+  </classifica>
+</feed>

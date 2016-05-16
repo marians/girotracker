@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="09"><![CDATA[Combattivit&#224;]]></tappa>
+  <localita><![CDATA[Greve in Chianti - km 40]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="176"><![CDATA[ROGLIC Primoz]]></nome>
+       <nazione>SVN</nazione>
+       <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="92"><![CDATA[BRANDLE Matthias]]></nome>
+       <nazione>AUT</nazione>
+       <squadra id="IAM"><![CDATA[IAM CYCLING]]></squadra>
+       <tempo>5</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="99"><![CDATA[LAENGEN Vegard Stake]]></nome>
+       <nazione>NOR</nazione>
+       <squadra id="IAM"><![CDATA[IAM CYCLING]]></squadra>
+       <tempo>4</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="204"><![CDATA[CANCELLARA Fabian]]></nome>
+       <nazione>SUI</nazione>
+       <squadra id="TFS"><![CDATA[TREK - SEGAFREDO]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="165"><![CDATA[VOROBYEV Anton]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="KAT"><![CDATA[TEAM KATUSHA]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="64"><![CDATA[JUNGELS Bob]]></nome>
+       <nazione>LUX</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

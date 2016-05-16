@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="05"><![CDATA[]]></tappa>
+  <localita><![CDATA[Benevento - km 233]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="149"><![CDATA[TXURRUKA Amets]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="OGE"><![CDATA[ORICA GREENEDGE]]></squadra>
+       <tempo>186</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="193"><![CDATA[BRUTT Pavel]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="TNK"><![CDATA[TINKOFF]]></squadra>
+       <tempo>186</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="85"><![CDATA[FOLIFOROV Alexander]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="GAZ"><![CDATA[GAZPROM - RUSVELO]]></squadra>
+       <tempo>186</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="36"><![CDATA[OSS Daniel]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>179</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

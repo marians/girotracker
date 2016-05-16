@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="05"><![CDATA[Maglia Azzurra]]></tappa>   
+  <localita><![CDATA[Polla - km 85]]></localita>
+  <virtuale>0</virtuale>
+<classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="131"><![CDATA[CUNEGO Damiano]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="NIP"><![CDATA[NIPPO - VINI FANTINI]]></squadra>
+       <tempo>7</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="212"><![CDATA[AMEZQUETA Julen]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="STH"><![CDATA[WILIER TRIESTINA - SOUTHEAST]]></squadra>
+       <tempo>4</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="111"><![CDATA[WELLENS Tim]]></nome>
+       <nazione>BEL</nazione>
+       <squadra id="LTS"><![CDATA[LOTTO SOUDAL]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="133"><![CDATA[BISOLTI Alessandro]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="NIP"><![CDATA[NIPPO - VINI FANTINI]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

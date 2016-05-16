@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="02"><![CDATA[Maglia Rossa]]></tappa>
+  <localita><![CDATA[Nijmegen - km 190]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="61"><![CDATA[KITTEL Marcel]]></nome>
+       <nazione>GER</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>50</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="178"><![CDATA[TJALLINGII Maarten]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra>
+       <tempo>40</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="71"><![CDATA[DEMARE Arnaud]]></nome>
+       <nazione>FRA</nazione>
+       <squadra id="FDJ"><![CDATA[FDJ]]></squadra>
+       <tempo>35</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="104"><![CDATA[MODOLO Sacha]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>29</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="132"><![CDATA[BERLATO Giacomo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="NIP"><![CDATA[NIPPO - VINI FANTINI]]></squadra>
+       <tempo>20</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="52"><![CDATA[FRAILE MATARRANZ Omar]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="DDD"><![CDATA[TEAM DIMENSION DATA]]></squadra>
+       <tempo>20</tempo> 
+      </item>
+      <item> 
+       <pos>7</pos>
+       <nome numero="173"><![CDATA[HOFLAND Moreno]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra>
+       <tempo>18</tempo> 
+      </item>
+      <item> 
+       <pos>8</pos>
+       <nome numero="207"><![CDATA[NIZZOLO Giacomo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="TFS"><![CDATA[TREK - SEGAFREDO]]></squadra>
+       <tempo>18</tempo> 
+      </item>
+      <item> 
+       <pos>9</pos>
+       <nome numero="29"><![CDATA[RUFFONI Nicola]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra>
+       <tempo>14</tempo> 
+      </item>
+      <item> 
+       <pos>10</pos>
+       <nome numero="166"><![CDATA[PORSEV Alexander]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="KAT"><![CDATA[TEAM KATUSHA]]></squadra>
+       <tempo>12</tempo> 
+      </item>
+      <item> 
+       <pos>11</pos>
+       <nome numero="143"><![CDATA[EWAN Caleb]]></nome>
+       <nazione>AUS</nazione>
+       <squadra id="OGE"><![CDATA[ORICA GREENEDGE]]></squadra>
+       <tempo>10</tempo> 
+      </item>
+      <item> 
+       <pos>12</pos>
+       <nome numero="55"><![CDATA[SBARAGLI Kristian]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="DDD"><![CDATA[TEAM DIMENSION DATA]]></squadra>
+       <tempo>10</tempo> 
+      </item>
+      <item> 
+       <pos>13</pos>
+       <nome numero="189"><![CDATA[VIVIANI Elia]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="SKY"><![CDATA[TEAM SKY]]></squadra>
+       <tempo>10</tempo> 
+      </item>
+      <item> 
+       <pos>14</pos>
+       <nome numero="122"><![CDATA[AMADOR Andrey]]></nome>
+       <nazione>CRC</nazione>
+       <squadra id="MOV"><![CDATA[MOVISTAR TEAM]]></squadra>
+       <tempo>7</tempo> 
+      </item>
+      <item> 
+       <pos>15</pos>
+       <nome numero="23"><![CDATA[SIMION Paolo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra>
+       <tempo>5</tempo> 
+      </item>
+      <item> 
+       <pos>16</pos>
+       <nome numero="152"><![CDATA[ARNDT Nikias]]></nome>
+       <nazione>GER</nazione>
+       <squadra id="TGA"><![CDATA[TEAM GIANT - ALPECIN]]></squadra>
+       <tempo>5</tempo> 
+      </item>
+      <item> 
+       <pos>17</pos>
+       <nome numero="67"><![CDATA[TRENTIN Matteo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>18</pos>
+       <nome numero="137"><![CDATA[GROSU Eduard Michael]]></nome>
+       <nazione>ROU</nazione>
+       <squadra id="NIP"><![CDATA[NIPPO - VINI FANTINI]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>19</pos>
+       <nome numero="169"><![CDATA[TCATEVITCH Alexey]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="KAT"><![CDATA[TEAM KATUSHA]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>20</pos>
+       <nome numero="114"><![CDATA[GREIPEL Andr&#233;]]></nome>
+       <nazione>GER</nazione>
+       <squadra id="LTS"><![CDATA[LOTTO SOUDAL]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+      <item> 
+       <pos>21</pos>
+       <nome numero="102"><![CDATA[FERRARI Roberto]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

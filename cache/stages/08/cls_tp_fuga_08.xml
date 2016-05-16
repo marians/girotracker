@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="08"><![CDATA[]]></tappa>
+  <localita><![CDATA[Arezzo - km 186]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="62"><![CDATA[BRAMBILLA Gianluca]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>25</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

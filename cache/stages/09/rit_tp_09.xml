@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="09"><![CDATA[Elenco ritirati]]></tappa>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>DNS</pos>
+       <nome numero="61"><![CDATA[KITTEL Marcel]]></nome>
+       <nazione>GER</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra> 
+      </item>
+		
+  </classifica>
+</feed>

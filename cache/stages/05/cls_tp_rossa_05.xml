@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="05"><![CDATA[Maglia Rossa]]></tappa>
+  <localita><![CDATA[Benevento - km 233]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="114"><![CDATA[GREIPEL Andre']]></nome>
+       <nazione>GER</nazione>
+       <squadra id="LTS"><![CDATA[LOTTO SOUDAL]]></squadra>
+       <tempo>50</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="71"><![CDATA[DEMARE Arnaud]]></nome>
+       <nazione>FRA</nazione>
+       <squadra id="FDJ"><![CDATA[FDJ]]></squadra>
+       <tempo>43</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="36"><![CDATA[OSS Daniel]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>40</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="27"><![CDATA[COLBRELLI Sonny]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra>
+       <tempo>25</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="85"><![CDATA[FOLIFOROV Alexander]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="GAZ"><![CDATA[GAZPROM - RUSVELO]]></squadra>
+       <tempo>24</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="64"><![CDATA[JUNGELS Bob]]></nome>
+       <nazione>LUX</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>18</tempo> 
+      </item>
+      <item> 
+       <pos>7</pos>
+       <nome numero="149"><![CDATA[TXURRUKA Amets]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="OGE"><![CDATA[ORICA GREENEDGE]]></squadra>
+       <tempo>16</tempo> 
+      </item>
+      <item> 
+       <pos>8</pos>
+       <nome numero="173"><![CDATA[HOFLAND Moreno]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra>
+       <tempo>14</tempo> 
+      </item>
+      <item> 
+       <pos>9</pos>
+       <nome numero="213"><![CDATA[BELLETTI Manuel]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="STH"><![CDATA[WILIER TRIESTINA - SOUTHEAST]]></squadra>
+       <tempo>12</tempo> 
+      </item>
+      <item> 
+       <pos>10</pos>
+       <nome numero="193"><![CDATA[BRUTT Pavel]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="TNK"><![CDATA[TINKOFF]]></squadra>
+       <tempo>12</tempo> 
+      </item>
+      <item> 
+       <pos>11</pos>
+       <nome numero="39"><![CDATA[ZABEL Rick]]></nome>
+       <nazione>GER</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>10</tempo> 
+      </item>
+      <item> 
+       <pos>12</pos>
+       <nome numero="157"><![CDATA[PREIDLER Georg]]></nome>
+       <nazione>AUT</nazione>
+       <squadra id="TGA"><![CDATA[TEAM GIANT - ALPECIN]]></squadra>
+       <tempo>8</tempo> 
+      </item>
+      <item> 
+       <pos>13</pos>
+       <nome numero="143"><![CDATA[EWAN Caleb]]></nome>
+       <nazione>AUS</nazione>
+       <squadra id="OGE"><![CDATA[ORICA GREENEDGE]]></squadra>
+       <tempo>7</tempo> 
+      </item>
+      <item> 
+       <pos>14</pos>
+       <nome numero="169"><![CDATA[TCATEVITCH Alexey]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="KAT"><![CDATA[TEAM KATUSHA]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>15</pos>
+       <nome numero="55"><![CDATA[SBARAGLI Kristian]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="DDD"><![CDATA[TEAM DIMENSION DATA]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>16</pos>
+       <nome numero="189"><![CDATA[VIVIANI Elia]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="SKY"><![CDATA[TEAM SKY]]></squadra>
+       <tempo>5</tempo> 
+      </item>
+      <item> 
+       <pos>17</pos>
+       <nome numero="161"><![CDATA[ZAKARIN Ilnur]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="KAT"><![CDATA[TEAM KATUSHA]]></squadra>
+       <tempo>4</tempo> 
+      </item>
+      <item> 
+       <pos>18</pos>
+       <nome numero="121"><![CDATA[VALVERDE Alejandro]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="MOV"><![CDATA[MOVISTAR TEAM]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>19</pos>
+       <nome numero="73"><![CDATA[DELAGE Mickael]]></nome>
+       <nazione>FRA</nazione>
+       <squadra id="FDJ"><![CDATA[FDJ]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>20</pos>
+       <nome numero="188"><![CDATA[ROCHE Nicholas]]></nome>
+       <nazione>IRL</nazione>
+       <squadra id="SKY"><![CDATA[TEAM SKY]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>21</pos>
+       <nome numero="208"><![CDATA[VAN POPPEL Boy]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="TFS"><![CDATA[TREK - SEGAFREDO]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>22</pos>
+       <nome numero="146"><![CDATA[MEZGEC Luka]]></nome>
+       <nazione>SLO</nazione>
+       <squadra id="OGE"><![CDATA[ORICA GREENEDGE]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+      <item> 
+       <pos>23</pos>
+       <nome numero="72"><![CDATA[COURTEILLE Arnaud]]></nome>
+       <nazione>FRA</nazione>
+       <squadra id="FDJ"><![CDATA[FDJ]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

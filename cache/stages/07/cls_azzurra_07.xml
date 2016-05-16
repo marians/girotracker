@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="07"><![CDATA[]]></tappa>
+  <localita><![CDATA[Foligno - km 211]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="111"><![CDATA[WELLENS Tim]]></nome>
+       <nazione>BEL</nazione>
+       <squadra id="LTS"><![CDATA[LOTTO SOUDAL]]></squadra>
+       <tempo>21</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="131"><![CDATA[CUNEGO Damiano]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="NIP"><![CDATA[NIPPO - VINI FANTINI]]></squadra>
+       <tempo>20</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="133"><![CDATA[BISOLTI Alessandro]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="NIP"><![CDATA[NIPPO - VINI FANTINI]]></squadra>
+       <tempo>16</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="35"><![CDATA[KUNG Stefan]]></nome>
+       <nazione>SUI</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>15</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="14"><![CDATA[FUGLSANG Jakob]]></nome>
+       <nazione>DEN</nazione>
+       <squadra id="AST"><![CDATA[ASTANA PRO TEAM]]></squadra>
+       <tempo>8</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="195"><![CDATA[MCCARTHY Jay]]></nome>
+       <nazione>AUS</nazione>
+       <squadra id="TNK"><![CDATA[TINKOFF]]></squadra>
+       <tempo>8</tempo> 
+      </item>
+      <item> 
+       <pos>7</pos>
+       <nome numero="81"><![CDATA[KOLOBNEV Alexandr]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="GAZ"><![CDATA[GAZPROM - RUSVELO]]></squadra>
+       <tempo>8</tempo> 
+      </item>
+      <item> 
+       <pos>8</pos>
+       <nome numero="24"><![CDATA[BOEM Nicola]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra>
+       <tempo>7</tempo> 
+      </item>
+      <item> 
+       <pos>9</pos>
+       <nome numero="161"><![CDATA[ZAKARIN Ilnur]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="KAT"><![CDATA[TEAM KATUSHA]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>10</pos>
+       <nome numero="21"><![CDATA[PIRAZZI Stefano]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>11</pos>
+       <nome numero="219"><![CDATA[ZHUPA Eugert]]></nome>
+       <nazione>ALB</nazione>
+       <squadra id="WIL"><![CDATA[WILIER TRIESTINA - SOUTHEAST]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>12</pos>
+       <nome numero="5"><![CDATA[GRETSCH Patrick]]></nome>
+       <nazione>GER</nazione>
+       <squadra id="ALM"><![CDATA[AG2R LA MONDIALE]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>13</pos>
+       <nome numero="212"><![CDATA[AMEZQUETA Julen]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="WIL"><![CDATA[WILIER TRIESTINA - SOUTHEAST]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>14</pos>
+       <nome numero="178"><![CDATA[TJALLINGII Maarten]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra>
+       <tempo>5</tempo> 
+      </item>
+      <item> 
+       <pos>15</pos>
+       <nome numero="151"><![CDATA[DUMOULIN Tom]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="TGA"><![CDATA[TEAM GIANT - ALPECIN]]></squadra>
+       <tempo>5</tempo> 
+      </item>
+      <item> 
+       <pos>16</pos>
+       <nome numero="38"><![CDATA[ROSSKOPF Joseph]]></nome>
+       <nazione>USA</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>4</tempo> 
+      </item>
+      <item> 
+       <pos>17</pos>
+       <nome numero="218"><![CDATA[MARTINEZ Daniel]]></nome>
+       <nazione>COL</nazione>
+       <squadra id="WIL"><![CDATA[WILIER TRIESTINA - SOUTHEAST]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>18</pos>
+       <nome numero="56"><![CDATA[SIUTSOU Kanstantsin]]></nome>
+       <nazione>BLR</nazione>
+       <squadra id="DDD"><![CDATA[TEAM DIMENSION DATA]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>19</pos>
+       <nome numero="157"><![CDATA[PREIDLER Georg]]></nome>
+       <nazione>AUT</nazione>
+       <squadra id="TGA"><![CDATA[TEAM GIANT - ALPECIN]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>20</pos>
+       <nome numero="26"><![CDATA[CICCONE Giulio]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>21</pos>
+       <nome numero="105"><![CDATA[MOHORIC Matej]]></nome>
+       <nazione>SLO</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>22</pos>
+       <nome numero="132"><![CDATA[BERLATO Giacomo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="NIP"><![CDATA[NIPPO - VINI FANTINI]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>23</pos>
+       <nome numero="1"><![CDATA[POZZOVIVO Domenico]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="ALM"><![CDATA[AG2R LA MONDIALE]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+      <item> 
+       <pos>24</pos>
+       <nome numero="129"><![CDATA[VISCONTI Giovanni]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="MOV"><![CDATA[MOVISTAR TEAM]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+      <item> 
+       <pos>25</pos>
+       <nome numero="12"><![CDATA[AGNOLI Valerio]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="AST"><![CDATA[ASTANA PRO TEAM]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+      <item> 
+       <pos>26</pos>
+       <nome numero="3"><![CDATA[DOMONT Axel]]></nome>
+       <nazione>FRA</nazione>
+       <squadra id="ALM"><![CDATA[AG2R LA MONDIALE]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+      <item> 
+       <pos>27</pos>
+       <nome numero="92"><![CDATA[BRANDLE Matthias]]></nome>
+       <nazione>AUT</nazione>
+       <squadra id="IAM"><![CDATA[IAM CYCLING]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="06"><![CDATA[Elenco ritirati]]></tappa>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>FTM</pos>
+       <nome numero="95"><![CDATA[PELUCCHI Matteo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="IAM"><![CDATA[IAM CYCLING]]></squadra> 
+      </item>
+		
+  </classifica>
+</feed>

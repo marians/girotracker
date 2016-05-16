@@ -3,6 +3,8 @@ from lxml import etree
 from pprint import pprint
 import os
 import csv
+import json
+
 
 base_uri = "http://xml2.temporeale.gazzettaobjects.it"
 stage_path = "/Giroditalia/2016/classifiche/xml/arrivo/"
@@ -160,6 +162,12 @@ def export_development_by_rider(classification):
                 riders[rider_id]["country"],
             ] + riders[rider_id]["accumulated_times"]
             writer.writerow(row)
+
+    with open("rider_results.json", "wb") as jsonfile:
+        jsonfile.write(json.dumps(riders, indent=2))
+
+    with open("rider_results.min.json", "wb") as jsonfile:
+        jsonfile.write(json.dumps(riders, separators=(',', ':')))
 
 
 if __name__ == "__main__":

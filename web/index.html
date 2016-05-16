@@ -1,0 +1,140 @@
+<!doctype html>
+<html>
+<head>
+<title>Giro d'Italia - How it unfolds</title>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+<style type="text/css">
+#svg {
+	width: 1000px;
+	margin: auto;
+}
+svg {
+	background-color: #ddd
+}
+svg text {
+	text-anchor: start;
+	fill: #444;
+}
+svg path {
+	stroke-width: 1px;
+	stroke: rgba(0, 0, 0, 0.5);
+	fill: none;
+	z-index: 10;
+}
+svg path.hl {
+	stroke-width: 3px;
+	stroke: rgba(255, 51, 153, 1.0);
+	z-index: 1;
+}
+svg text {
+	fill: #444;
+	cursor: pointer;
+}
+svg text.hl {
+	background-color: white;
+	fill: #ff3399;
+}
+svg circle {
+	stroke: none;
+	fill: rgba(0, 0, 0, 0.5);
+	z-index: 10;
+}
+svg circle.hl {
+	stroke: none;
+	fill: rgba(255, 51, 153, 1.0);
+	z-index: 1;
+}
+
+
+</style>
+</head>
+<body>
+<div id="svg"></div>
+<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script>
+var WIDTH = 1000,
+    HEIGHT=2600,
+    LEFT_MARGIN = 150,
+	RIGHT_MARGIN = 150,
+	TOP_MARGIN = 50,
+	BOTTOM_MARGIN = 50,
+	STEP_WIDTH = 80;
+var ELIGIBLE_SIZE = HEIGHT - TOP_MARGIN - BOTTOM_MARGIN;
+var _y = d3.scale.linear()
+			.domain([0, 200])
+			.range([TOP_MARGIN, HEIGHT-BOTTOM_MARGIN])
+d3.json("rider_results.min.json", function(data){
+	//console.log(data);
+	var data_array = [];
+	for (key in data) {
+		//console.log(key, data[key]);
+		data[key].id = key;
+		data_array.push(data[key]);
+	}
+	var sg = d3.select('#svg')
+		.append('svg:svg')
+		.attr('width', WIDTH)
+		.attr('height', HEIGHT);
+	sg.selectAll('.left_labels')
+		.data(data_array).enter().append('svg:text')
+			.attr('x', 20)
+			.attr('y', function(d,i){
+				return _y(d.stage_ranks[0]);
+			})
+			.attr('dy', '.35em')
+			.attr('font-size', 10)
+			.text(function(d,i){ return d.name})
+			.attr('data-id', function(d,i){
+				return d.id;
+			})
+			.attr('class', function(d,i){
+				return "rider rider_" + d.id;
+			})
+			.on("mouseover", function() {
+				// first remove all highlights
+				d3.select("text.hl")
+					.classed("hl", false);
+				d3.select("path.hl")
+					.classed("hl", false);
+				d3.select("circle.hl")
+					.classed("hl", false);
+				// then add hl to this element
+				var el = d3.select(this);
+				el.classed("hl", true);
+				// and to the path
+				rider_id = el.attr("data-id");
+				d3.select("path.rider_" + rider_id)
+					.classed("hl", true);
+				d3.select("circle.rider_" + rider_id)
+					.classed("hl", true);
+			});
+	sg.selectAll('.paths')
+		.data(data_array).enter().append('svg:path')
+			.attr('class', function(d,i){
+				return "rider_" + d.id;
+			})
+			.attr('d', function(d,i){
+				var points = "";
+				d.stage_ranks.forEach(function(val,n){
+					//console.log(val,n)
+					points += (n == 0 ?  "M" : "L");
+					points += (n * STEP_WIDTH + LEFT_MARGIN + 50) + " " + _y(val) + " ";
+				});
+				return points;
+			});
+	sg.selectAll('.points')
+		.data(data_array).enter().append('svg:circle')
+			.attr('class', function(d,i){
+				return "rider_" + d.id;
+			})
+			.attr('r', 3)
+			.attr('cx', function(d, i){
+				return (d.stage_ranks.length - 1) * STEP_WIDTH + LEFT_MARGIN + 50;
+			})
+			.attr('cy', function(d, i){
+				return _y(d.stage_ranks[d.stage_ranks.length-1]);
+			});
+});
+</script>
+</body>
+</html>

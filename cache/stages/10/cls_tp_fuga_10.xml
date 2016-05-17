@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="10"><![CDATA[]]></tappa>
+  <localita><![CDATA[Sestola - km 219]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="129"><![CDATA[VISCONTI Giovanni]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="MOV"><![CDATA[MOVISTAR TEAM]]></squadra>
+       <tempo>117</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="107"><![CDATA[NIEMIEC Przemyslaw]]></nome>
+       <nazione>POL</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>106</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="24"><![CDATA[BOEM Nicola]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra>
+       <tempo>87</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="157"><![CDATA[PREIDLER Georg]]></nome>
+       <nazione>AUT</nazione>
+       <squadra id="TGA"><![CDATA[TEAM GIANT - ALPECIN]]></squadra>
+       <tempo>24</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="26"><![CDATA[CICCONE Giulio]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra>
+       <tempo>18</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="131"><![CDATA[CUNEGO Damiano]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="NIP"><![CDATA[NIPPO - VINI FANTINI]]></squadra>
+       <tempo>5</tempo> 
+      </item>
+      <item> 
+       <pos>7</pos>
+       <nome numero="21"><![CDATA[PIRAZZI Stefano]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra>
+       <tempo>5</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

@@ -50,10 +50,10 @@ The attributes:
 
 ## Source data
 
-For each stage, these files can be available (`<num>` is replaced by the two digity, zero-padded stage number):
+For each stage, these files can be available (`<num>` is replaced by the two digit, zero-padded stage number):
 
 - `cls_rosa_<num>.xml`: General classification
 - `cls_tp_<num>.xml`: Stage results for each rider
 - `rit_tp_<num>.xml`: Riders who retired during or after this stage. May be an empty list.
 
-(to be continued)
+(There are more files, which haven't been investigated yet.)

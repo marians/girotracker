@@ -20,7 +20,33 @@ To fetch latest stage data first, remove the `cache` directory.
 python track.py
 ```
 
-As a result, you get two CSV files with per rider, per stage classification data.
+As a result, you get some CSV and JSON files with per rider, per stage classification data.
+
+## Output data
+
+### `rider_results.json` and `rider_results.min.json`
+
+This is an object with one key per rider, where the key is the rider's unique identifier. Each value is an object like this:
+
+```json
+{
+  "accumulated_times": [710, 17421, 33246, ...], 
+  "country": "ITA", 
+  "name": "POZZOVIVO Domenico", 
+  "stage_ranks": [97, 88, 56, ...], 
+  "team_id": "ALM", 
+  "team_name": "AG2R LA MONDIALE"
+}
+```
+
+The attributes:
+
+- `accumulated_times`: Array with total time ridden by this rider after each stage, in seconds
+- `country`: Country of the rider
+- `name`: Last name and first name of the rider
+- `stage_ranks`: Array with the rider's rank after each stage
+- `team_id`: Unique identifier of the rider's team
+- `team_name`: Name of the rider's team
 
 ## Source data
 

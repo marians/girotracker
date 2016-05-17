@@ -164,10 +164,10 @@ def export_development_by_rider(classification):
             writer.writerow(row)
 
     with open("rider_results.json", "wb") as jsonfile:
-        jsonfile.write(json.dumps(riders, indent=2))
+        jsonfile.write(json.dumps(riders, indent=2, sort_keys=True))
 
     with open("rider_results.min.json", "wb") as jsonfile:
-        jsonfile.write(json.dumps(riders, separators=(',', ':')))
+        jsonfile.write(json.dumps(riders, sort_keys=True, separators=(',', ':')))
 
 
 if __name__ == "__main__":

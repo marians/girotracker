@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="11"><![CDATA[]]></tappa>
+  <localita><![CDATA[Asolo - km 227]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="165"><![CDATA[VOROBYEV Anton]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="KAT"><![CDATA[TEAM KATUSHA]]></squadra>
+       <tempo>171</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="99"><![CDATA[LAENGEN Vegard Stake]]></nome>
+       <nazione>NOR</nazione>
+       <squadra id="IAM"><![CDATA[IAM CYCLING]]></squadra>
+       <tempo>135</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="214"><![CDATA[BERTAZZO Liam]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="WIL"><![CDATA[WILIER TRIESTINA - SOUTHEAST]]></squadra>
+       <tempo>133</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="192"><![CDATA[BOARO Manuele]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="TNK"><![CDATA[TINKOFF]]></squadra>
+       <tempo>38</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="132"><![CDATA[BERLATO Giacomo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="NIP"><![CDATA[NIPPO - VINI FANTINI]]></squadra>
+       <tempo>38</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="219"><![CDATA[ZHUPA Eugert]]></nome>
+       <nazione>ALB</nazione>
+       <squadra id="WIL"><![CDATA[WILIER TRIESTINA - SOUTHEAST]]></squadra>
+       <tempo>38</tempo> 
+      </item>
+      <item> 
+       <pos>7</pos>
+       <nome numero="211"><![CDATA[POZZATO Filippo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="WIL"><![CDATA[WILIER TRIESTINA - SOUTHEAST]]></squadra>
+       <tempo>38</tempo> 
+      </item>
+      <item> 
+       <pos>8</pos>
+       <nome numero="46"><![CDATA[MOSER Moreno]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="CPT"><![CDATA[CANNONDALE PRO CYCLING TEAM]]></squadra>
+       <tempo>38</tempo> 
+      </item>
+      <item> 
+       <pos>9</pos>
+       <nome numero="37"><![CDATA[QUINZIATO Manuel]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>38</tempo> 
+      </item>
+      <item> 
+       <pos>10</pos>
+       <nome numero="94"><![CDATA[KLUGE Roger]]></nome>
+       <nazione>GER</nazione>
+       <squadra id="IAM"><![CDATA[IAM CYCLING]]></squadra>
+       <tempo>38</tempo> 
+      </item>
+      <item> 
+       <pos>11</pos>
+       <nome numero="93"><![CDATA[HOWARD Leigh]]></nome>
+       <nazione>AUS</nazione>
+       <squadra id="IAM"><![CDATA[IAM CYCLING]]></squadra>
+       <tempo>38</tempo> 
+      </item>
+      <item> 
+       <pos>12</pos>
+       <nome numero="122"><![CDATA[AMADOR Andrey]]></nome>
+       <nazione>CRC</nazione>
+       <squadra id="MOV"><![CDATA[MOVISTAR TEAM]]></squadra>
+       <tempo>13</tempo> 
+      </item>
+      <item> 
+       <pos>13</pos>
+       <nome numero="64"><![CDATA[JUNGELS Bob]]></nome>
+       <nazione>LUX</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>13</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

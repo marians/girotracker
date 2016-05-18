@@ -10,7 +10,8 @@
       105859, 
       121208, 
       124532, 
-      145339
+      145339, 
+      163221
     ], 
     "country": "ITA", 
     "name": "POZZOVIVO Domenico", 
@@ -24,7 +25,8 @@
       13, 
       9, 
       12, 
-      11
+      11, 
+      14
     ], 
     "team_id": "ALM", 
     "team_name": "AG2R LA MONDIALE"
@@ -40,7 +42,8 @@
       105844, 
       121241, 
       124558, 
-      145365
+      145365, 
+      163147
     ], 
     "country": "ITA", 
     "name": "ULISSI Diego", 
@@ -54,7 +57,8 @@
       7, 
       16, 
       14, 
-      12
+      12, 
+      10
     ], 
     "team_id": "LAM", 
     "team_name": "LAMPRE - MERIDA"
@@ -70,7 +74,8 @@
       106113, 
       121663, 
       125112, 
-      146053
+      146053, 
+      163858
     ], 
     "country": "ITA", 
     "name": "CONTI Valerio", 
@@ -84,7 +89,8 @@
       40, 
       37, 
       37, 
-      34
+      34, 
+      27
     ], 
     "team_id": "LAM", 
     "team_name": "LAMPRE - MERIDA"
@@ -100,7 +106,8 @@
       107485, 
       123815, 
       127334, 
-      149659
+      149659, 
+      168246
     ], 
     "country": "ITA", 
     "name": "FERRARI Roberto", 
@@ -114,7 +121,8 @@
       116, 
       122, 
       130, 
-      130
+      130, 
+      135
     ], 
     "team_id": "LAM", 
     "team_name": "LAMPRE - MERIDA"
@@ -130,7 +138,8 @@
       108001, 
       124331, 
       127832, 
-      149619
+      149619, 
+      168206
     ], 
     "country": "BLR", 
     "name": "KOSHEVOY Ilia", 
@@ -144,7 +153,8 @@
       150, 
       153, 
       156, 
-      127
+      127, 
+      132
     ], 
     "team_id": "LAM", 
     "team_name": "LAMPRE - MERIDA"
@@ -160,7 +170,8 @@
       106746, 
       123076, 
       126662, 
-      148987
+      148987, 
+      166792
     ], 
     "country": "ITA", 
     "name": "MODOLO Sacha", 
@@ -174,7 +185,8 @@
       60, 
       77, 
       85, 
-      97
+      97, 
+      77
     ], 
     "team_id": "LAM", 
     "team_name": "LAMPRE - MERIDA"
@@ -190,7 +202,8 @@
       107393, 
       123723, 
       127026, 
-      149351
+      149351, 
+      167545
     ], 
     "country": "SLO", 
     "name": "MOHORIC Matej", 
@@ -204,7 +217,8 @@
       106, 
       114, 
       106, 
-      112
+      112, 
+      106
     ], 
     "team_id": "LAM", 
     "team_name": "LAMPRE - MERIDA"
@@ -220,7 +234,8 @@
       106743, 
       122470, 
       125923, 
-      147617
+      147617, 
+      166204
     ], 
     "country": "ITA", 
     "name": "MORI Manuele", 
@@ -234,7 +249,8 @@
       59, 
       57, 
       59, 
-      59
+      59, 
+      62
     ], 
     "team_id": "LAM", 
     "team_name": "LAMPRE - MERIDA"
@@ -250,7 +266,8 @@
       106859, 
       122586, 
       126055, 
-      148139
+      148139, 
+      166726
     ], 
     "country": "POL", 
     "name": "NIEMIEC Przemyslaw", 
@@ -264,7 +281,8 @@
       67, 
       60, 
       62, 
-      71
+      71, 
+      75
     ], 
     "team_id": "LAM", 
     "team_name": "LAMPRE - MERIDA"
@@ -280,7 +298,8 @@
       107176, 
       123506, 
       126976, 
-      148077
+      148077, 
+      166664
     ], 
     "country": "ITA", 
     "name": "PETILLI Simone", 
@@ -294,7 +313,8 @@
       88, 
       101, 
       101, 
-      70
+      70, 
+      73
     ], 
     "team_id": "LAM", 
     "team_name": "LAMPRE - MERIDA"
@@ -310,7 +330,8 @@
       105850, 
       121199, 
       124437, 
-      145244
+      145244, 
+      163049
     ], 
     "country": "ITA", 
     "name": "NIBALI Vincenzo", 
@@ -322,6 +343,7 @@
       6, 
       9, 
       8, 
+      5, 
       5, 
       5, 
       5
@@ -340,7 +362,8 @@
       106795, 
       123125, 
       126527, 
-      148852
+      148852, 
+      166657
     ], 
     "country": "BEL", 
     "name": "WELLENS Tim", 
@@ -354,7 +377,8 @@
       61, 
       84, 
       79, 
-      91
+      91, 
+      72
     ], 
     "team_id": "LTS", 
     "team_name": "LOTTO SOUDAL"
@@ -370,7 +394,8 @@
       107583, 
       123913, 
       127249, 
-      148872
+      148872, 
+      166829
     ], 
     "country": "DEN", 
     "name": "BAK Lars Ytting", 
@@ -384,7 +409,8 @@
       119, 
       124, 
       122, 
-      93
+      93, 
+      79
     ], 
     "team_id": "LTS", 
     "team_name": "LOTTO SOUDAL"
@@ -400,7 +426,8 @@
       107398, 
       123125, 
       126549, 
-      148874
+      148874, 
+      167382
     ], 
     "country": "BEL", 
     "name": "DE BIE Sean", 
@@ -414,7 +441,8 @@
       107, 
       83, 
       81, 
-      94
+      94, 
+      101
     ], 
     "team_id": "LTS", 
     "team_name": "LOTTO SOUDAL"
@@ -430,7 +458,8 @@
       107034, 
       123364, 
       126890, 
-      149215
+      149215, 
+      167723
     ], 
     "country": "GER", 
     "name": "GREIPEL Andr&#233;", 
@@ -444,7 +473,8 @@
       79, 
       96, 
       98, 
-      110
+      110, 
+      117
     ], 
     "team_id": "LTS", 
     "team_name": "LOTTO SOUDAL"
@@ -460,7 +490,8 @@
       107255, 
       123230, 
       126741, 
-      148545
+      148545, 
+      166446
     ], 
     "country": "AUS", 
     "name": "HANSEN Adam", 
@@ -474,7 +505,8 @@
       95, 
       89, 
       90, 
-      79
+      79, 
+      66
     ], 
     "team_id": "LTS", 
     "team_name": "LOTTO SOUDAL"
@@ -490,7 +522,8 @@
       108053, 
       124383, 
       127797, 
-      150122
+      150122, 
+      168222
     ], 
     "country": "NED", 
     "name": "LIGTHART Pim", 
@@ -504,7 +537,8 @@
       153, 
       156, 
       155, 
-      147
+      147, 
+      134
     ], 
     "team_id": "LTS", 
     "team_name": "LOTTO SOUDAL"
@@ -520,7 +554,8 @@
       105967, 
       121377, 
       124675, 
-      145616
+      145616, 
+      163421
     ], 
     "country": "BEL", 
     "name": "MONFORT Maxime", 
@@ -534,7 +569,8 @@
       27, 
       26, 
       23, 
-      22
+      22, 
+      20
     ], 
     "team_id": "LTS", 
     "team_name": "LOTTO SOUDAL"
@@ -550,7 +586,8 @@
       107616, 
       123946, 
       127269, 
-      149594
+      149594, 
+      167680
     ], 
     "country": "BEL", 
     "name": "ROELANDTS Jurgen", 
@@ -564,7 +601,8 @@
       122, 
       129, 
       124, 
-      125
+      125, 
+      112
     ], 
     "team_id": "LTS", 
     "team_name": "LOTTO SOUDAL"
@@ -580,7 +618,8 @@
       108003, 
       124333, 
       127849, 
-      148918
+      148918, 
+      166869
     ], 
     "country": "BEL", 
     "name": "VANENDERT Jelle", 
@@ -594,7 +633,8 @@
       151, 
       154, 
       158, 
-      95
+      95, 
+      81
     ], 
     "team_id": "LTS", 
     "team_name": "LOTTO SOUDAL"
@@ -610,7 +650,8 @@
       106315, 
       122165, 
       125590, 
-      147042
+      147042, 
+      165899
     ], 
     "country": "ITA", 
     "name": "AGNOLI Valerio", 
@@ -624,7 +665,8 @@
       44, 
       49, 
       46, 
-      49
+      49, 
+      56
     ], 
     "team_id": "AST", 
     "team_name": "ASTANA PRO TEAM"
@@ -640,7 +682,8 @@
       105844, 
       121190, 
       124439, 
-      145242
+      145242, 
+      163047
     ], 
     "country": "ESP", 
     "name": "VALVERDE Alejandro", 
@@ -654,6 +697,7 @@
       6, 
       4, 
       6, 
+      3, 
       3
     ], 
     "team_id": "MOV", 
@@ -670,7 +714,8 @@
       105883, 
       121232, 
       124416, 
-      145218
+      145218, 
+      163004
     ], 
     "country": "CRC", 
     "name": "AMADOR Andrey", 
@@ -684,6 +729,7 @@
       17, 
       13, 
       3, 
+      2, 
       2
     ], 
     "team_id": "MOV", 
@@ -700,7 +746,8 @@
       106838, 
       122813, 
       126139, 
-      147504
+      147504, 
+      165309
     ], 
     "country": "COL", 
     "name": "BETANCUR Carlos A.", 
@@ -714,7 +761,8 @@
       65, 
       68, 
       63, 
-      58
+      58, 
+      49
     ], 
     "team_id": "MOV", 
     "team_name": "MOVISTAR TEAM"
@@ -730,7 +778,8 @@
       107699, 
       124029, 
       127419, 
-      148818
+      148818, 
+      167107
     ], 
     "country": "ESP", 
     "name": "HERRADA LOPEZ Jos&#233;", 
@@ -744,7 +793,8 @@
       126, 
       132, 
       134, 
-      87
+      87, 
+      89
     ], 
     "team_id": "MOV", 
     "team_name": "MOVISTAR TEAM"
@@ -782,7 +832,8 @@
       106843, 
       122225, 
       125599, 
-      146964
+      146964, 
+      164769
     ], 
     "country": "ESP", 
     "name": "ROJAS GIL Jose Joaquin", 
@@ -796,7 +847,8 @@
       66, 
       50, 
       47, 
-      46
+      46, 
+      39
     ], 
     "team_id": "MOV", 
     "team_name": "MOVISTAR TEAM"
@@ -812,7 +864,8 @@
       108157, 
       124132, 
       127486, 
-      149180
+      149180, 
+      167767
     ], 
     "country": "AUS", 
     "name": "SUTHERLAND Rory", 
@@ -826,7 +879,8 @@
       159, 
       138, 
       139, 
-      108
+      108, 
+      118
     ], 
     "team_id": "MOV", 
     "team_name": "MOVISTAR TEAM"
@@ -842,7 +896,8 @@
       108906, 
       124316, 
       127537, 
-      149862
+      149862, 
+      168370
     ], 
     "country": "GER", 
     "name": "SUTTERLIN Jasha", 
@@ -856,6 +911,7 @@
       185, 
       151, 
       142, 
+      139, 
       139
     ], 
     "team_id": "MOV", 
@@ -872,7 +928,8 @@
       105974, 
       121384, 
       124671, 
-      145474
+      145474, 
+      163279
     ], 
     "country": "ITA", 
     "name": "VISCONTI Giovanni", 
@@ -886,6 +943,7 @@
       29, 
       27, 
       21, 
+      18, 
       18
     ], 
     "team_id": "MOV", 
@@ -902,7 +960,8 @@
       107820, 
       124150, 
       127543, 
-      149615
+      149615, 
+      168472
     ], 
     "country": "ITA", 
     "name": "CAPECCHI Eros", 
@@ -916,7 +975,8 @@
       138, 
       142, 
       143, 
-      126
+      126, 
+      142
     ], 
     "team_id": "AST", 
     "team_name": "ASTANA PRO TEAM"
@@ -932,7 +992,8 @@
       107107, 
       123082, 
       126514, 
-      147310
+      147310, 
+      165504
     ], 
     "country": "ITA", 
     "name": "CUNEGO Damiano", 
@@ -946,7 +1007,8 @@
       83, 
       78, 
       78, 
-      55
+      55, 
+      51
     ], 
     "team_id": "NIP", 
     "team_name": "NIPPO - VINI FANTINI"
@@ -962,7 +1024,8 @@
       107819, 
       123219, 
       126607, 
-      148932
+      148932, 
+      167126
     ], 
     "country": "ITA", 
     "name": "BERLATO Giacomo", 
@@ -976,7 +1039,8 @@
       137, 
       87, 
       84, 
-      96
+      96, 
+      91
     ], 
     "team_id": "NIP", 
     "team_name": "NIPPO - VINI FANTINI"
@@ -992,7 +1056,8 @@
       106969, 
       123299, 
       126841, 
-      149166
+      149166, 
+      167100
     ], 
     "country": "ITA", 
     "name": "BISOLTI Alessandro", 
@@ -1006,7 +1071,8 @@
       72, 
       94, 
       94, 
-      107
+      107, 
+      88
     ], 
     "team_id": "NIP", 
     "team_name": "NIPPO - VINI FANTINI"
@@ -1022,7 +1088,8 @@
       108967, 
       125386, 
       128750, 
-      151364
+      151364, 
+      169248
     ], 
     "country": "SLO", 
     "name": "BOLE Grega", 
@@ -1036,7 +1103,8 @@
       186, 
       183, 
       181, 
-      178
+      178, 
+      162
     ], 
     "team_id": "NIP", 
     "team_name": "NIPPO - VINI FANTINI"
@@ -1052,7 +1120,8 @@
       109050, 
       125469, 
       129061, 
-      151988
+      151988, 
+      170496
     ], 
     "country": "ITA", 
     "name": "STACCHIOTTI Riccardo", 
@@ -1066,7 +1135,8 @@
       187, 
       184, 
       185, 
-      182
+      182, 
+      179
     ], 
     "team_id": "NIP", 
     "team_name": "NIPPO - VINI FANTINI"
@@ -1106,7 +1176,8 @@
       108411, 
       124741, 
       128219, 
-      151146
+      151146, 
+      169654
     ], 
     "country": "ROU", 
     "name": "GROSU Eduard Michael", 
@@ -1120,7 +1191,8 @@
       168, 
       167, 
       169, 
-      174
+      174, 
+      172
     ], 
     "team_id": "NIP", 
     "team_name": "NIPPO - VINI FANTINI"
@@ -1136,7 +1208,8 @@
       108859, 
       125381, 
       128862, 
-      151187
+      151187, 
+      169774
     ], 
     "country": "JPN", 
     "name": "YAMAMOTO Genki", 
@@ -1150,7 +1223,8 @@
       183, 
       182, 
       182, 
-      175
+      175, 
+      173
     ], 
     "team_id": "NIP", 
     "team_name": "NIPPO - VINI FANTINI"
@@ -1166,7 +1240,8 @@
       108182, 
       124597, 
       128024, 
-      150349
+      150349, 
+      168350
     ], 
     "country": "ITA", 
     "name": "ZILIOLI Gianfranco", 
@@ -1180,7 +1255,8 @@
       161, 
       163, 
       163, 
-      154
+      154, 
+      138
     ], 
     "team_id": "NIP", 
     "team_name": "NIPPO - VINI FANTINI"
@@ -1196,7 +1272,8 @@
       105829, 
       121226, 
       124495, 
-      145298
+      145298, 
+      163199
     ], 
     "country": "DEN", 
     "name": "FUGLSANG Jakob", 
@@ -1210,7 +1287,8 @@
       2, 
       12, 
       10, 
-      8
+      8, 
+      12
     ], 
     "team_id": "AST", 
     "team_name": "ASTANA PRO TEAM"
@@ -1226,7 +1304,8 @@
       105856, 
       121202, 
       124535, 
-      145338
+      145338, 
+      163143
     ], 
     "country": "COL", 
     "name": "CHAVES Esteban", 
@@ -1240,7 +1319,8 @@
       11, 
       6, 
       13, 
-      10
+      10, 
+      8
     ], 
     "team_id": "OGE", 
     "team_name": "ORICA GREENEDGE"
@@ -1256,7 +1336,8 @@
       108467, 
       124797, 
       128372, 
-      150444
+      150444, 
+      169031
     ], 
     "country": "NZL", 
     "name": "BEWLEY Sam", 
@@ -1270,7 +1351,8 @@
       173, 
       171, 
       177, 
-      156
+      156, 
+      154
     ], 
     "team_id": "OGE", 
     "team_name": "ORICA GREENEDGE"
@@ -1286,7 +1368,8 @@
       107672, 
       124002, 
       127522, 
-      150449
+      150449, 
+      169306
     ], 
     "country": "AUS", 
     "name": "EWAN Caleb", 
@@ -1300,7 +1383,8 @@
       124, 
       131, 
       141, 
-      157
+      157, 
+      164
     ], 
     "team_id": "OGE", 
     "team_name": "ORICA GREENEDGE"
@@ -1316,7 +1400,8 @@
       108060, 
       124390, 
       127932, 
-      150859
+      150859, 
+      169446
     ], 
     "country": "AUS", 
     "name": "HEPBURN Michael", 
@@ -1330,7 +1415,8 @@
       154, 
       157, 
       159, 
-      170
+      170, 
+      168
     ], 
     "team_id": "OGE", 
     "team_name": "ORICA GREENEDGE"
@@ -1346,7 +1432,8 @@
       106742, 
       122592, 
       125842, 
-      147241
+      147241, 
+      165125
     ], 
     "country": "AUS", 
     "name": "HOWSON Damien", 
@@ -1360,7 +1447,8 @@
       58, 
       61, 
       55, 
-      54
+      54, 
+      47
     ], 
     "team_id": "OGE", 
     "team_name": "ORICA GREENEDGE"
@@ -1376,7 +1464,8 @@
       106936, 
       123266, 
       126880, 
-      149807
+      149807, 
+      168664
     ], 
     "country": "SLO", 
     "name": "MEZGEC Luka", 
@@ -1390,7 +1479,8 @@
       70, 
       92, 
       97, 
-      136
+      136, 
+      144
     ], 
     "team_id": "OGE", 
     "team_name": "ORICA GREENEDGE"
@@ -1406,7 +1496,8 @@
       106826, 
       122376, 
       125645, 
-      148572
+      148572, 
+      167159
     ], 
     "country": "ESP", 
     "name": "PLAZA MOLINA Ruben", 
@@ -1420,7 +1511,8 @@
       64, 
       54, 
       49, 
-      80
+      80, 
+      93
     ], 
     "team_id": "OGE", 
     "team_name": "ORICA GREENEDGE"
@@ -1436,7 +1528,8 @@
       108464, 
       124794, 
       128237, 
-      150562
+      150562, 
+      169149
     ], 
     "country": "CAN", 
     "name": "TUFT Svein", 
@@ -1450,7 +1543,8 @@
       171, 
       170, 
       170, 
-      160
+      160, 
+      159
     ], 
     "team_id": "OGE", 
     "team_name": "ORICA GREENEDGE"
@@ -1466,7 +1560,8 @@
       107119, 
       123094, 
       126455, 
-      147854
+      147854, 
+      166441
     ], 
     "country": "ESP", 
     "name": "TXURRUKA Amets", 
@@ -1480,7 +1575,8 @@
       84, 
       80, 
       73, 
-      62
+      62, 
+      65
     ], 
     "team_id": "OGE", 
     "team_name": "ORICA GREENEDGE"
@@ -1496,7 +1592,8 @@
       105931, 
       121339, 
       124664, 
-      145605
+      145605, 
+      163562
     ], 
     "country": "EST", 
     "name": "KANGERT Tanel", 
@@ -1510,7 +1607,8 @@
       24, 
       24, 
       20, 
-      20
+      20, 
+      21
     ], 
     "team_id": "AST", 
     "team_name": "ASTANA PRO TEAM"
@@ -1556,7 +1654,8 @@
       107437, 
       122946, 
       126371, 
-      148696
+      148696, 
+      167070
     ], 
     "country": "GER", 
     "name": "ARNDT Nikias", 
@@ -1570,7 +1669,8 @@
       110, 
       71, 
       71, 
-      84
+      84, 
+      87
     ], 
     "team_id": "TGA", 
     "team_name": "TEAM GIANT - ALPECIN"
@@ -1586,7 +1686,8 @@
       108503, 
       124833, 
       128286, 
-      151213
+      151213, 
+      169800
     ], 
     "country": "BEL", 
     "name": "DE BACKER Bert", 
@@ -1600,7 +1701,8 @@
       175, 
       173, 
       172, 
-      176
+      176, 
+      174
     ], 
     "team_id": "TGA", 
     "team_name": "TEAM GIANT - ALPECIN"
@@ -1616,7 +1718,8 @@
       107476, 
       123806, 
       127043, 
-      148737
+      148737, 
+      167324
     ], 
     "country": "USA", 
     "name": "HAGA Chad", 
@@ -1630,7 +1733,8 @@
       115, 
       121, 
       107, 
-      85
+      85, 
+      99
     ], 
     "team_id": "TGA", 
     "team_name": "TEAM GIANT - ALPECIN"
@@ -1646,7 +1750,8 @@
       109522, 
       126215, 
       129862, 
-      152187
+      152187, 
+      170561
     ], 
     "country": "CHN", 
     "name": "JI Cheng", 
@@ -1660,7 +1765,8 @@
       190, 
       187, 
       186, 
-      183
+      183, 
+      181
     ], 
     "team_id": "TGA", 
     "team_name": "TEAM GIANT - ALPECIN"
@@ -1676,7 +1782,8 @@
       106611, 
       122161, 
       125410, 
-      146862
+      146862, 
+      164888
     ], 
     "country": "SWE", 
     "name": "LUDVIGSSON Tobias", 
@@ -1690,6 +1797,7 @@
       51, 
       48, 
       43, 
+      44, 
       44
     ], 
     "team_id": "TGA", 
@@ -1706,7 +1814,8 @@
       105972, 
       121947, 
       125397, 
-      146243
+      146243, 
+      164200
     ], 
     "country": "AUT", 
     "name": "PREIDLER Georg", 
@@ -1720,7 +1829,8 @@
       28, 
       42, 
       42, 
-      37
+      37, 
+      30
     ], 
     "team_id": "TGA", 
     "team_name": "TEAM GIANT - ALPECIN"
@@ -1736,7 +1846,8 @@
       108270, 
       124600, 
       128029, 
-      150354
+      150354, 
+      168941
     ], 
     "country": "NED", 
     "name": "STAMSNIJDER Tom", 
@@ -1750,7 +1861,8 @@
       165, 
       164, 
       164, 
-      155
+      155, 
+      152
     ], 
     "team_id": "TGA", 
     "team_name": "TEAM GIANT - ALPECIN"
@@ -1766,7 +1878,8 @@
       108677, 
       125007, 
       128295, 
-      151222
+      151222, 
+      169809
     ], 
     "country": "NED", 
     "name": "TIMMER Albert", 
@@ -1780,7 +1893,8 @@
       181, 
       179, 
       173, 
-      177
+      177, 
+      175
     ], 
     "team_id": "TGA", 
     "team_name": "TEAM GIANT - ALPECIN"
@@ -1796,7 +1910,8 @@
       107124, 
       123099, 
       126559, 
-      148011
+      148011, 
+      166111
     ], 
     "country": "KAZ", 
     "name": "KOZHATAYEV Bakhtiyar", 
@@ -1810,7 +1925,8 @@
       85, 
       82, 
       82, 
-      68
+      68, 
+      59
     ], 
     "team_id": "AST", 
     "team_name": "ASTANA PRO TEAM"
@@ -1826,7 +1942,8 @@
       105831, 
       121177, 
       124513, 
-      145320
+      145320, 
+      163125
     ], 
     "country": "RUS", 
     "name": "ZAKARIN Ilnur", 
@@ -1840,7 +1957,8 @@
       3, 
       2, 
       11, 
-      9
+      9, 
+      7
     ], 
     "team_id": "KAT", 
     "team_name": "TEAM KATUSHA"
@@ -1856,7 +1974,8 @@
       107868, 
       124198, 
       127464, 
-      149789
+      149789, 
+      167723
     ], 
     "country": "RUS", 
     "name": "BELKOV Maxim", 
@@ -1870,7 +1989,8 @@
       143, 
       145, 
       138, 
-      134
+      134, 
+      116
     ], 
     "team_id": "KAT", 
     "team_name": "TEAM KATUSHA"
@@ -1886,7 +2006,8 @@
       106045, 
       121595, 
       125116, 
-      146057
+      146057, 
+      164014
     ], 
     "country": "RUS", 
     "name": "KOCHETKOV Pavel", 
@@ -1900,7 +2021,8 @@
       35, 
       35, 
       38, 
-      35
+      35, 
+      29
     ], 
     "team_id": "KAT", 
     "team_name": "TEAM KATUSHA"
@@ -1916,7 +2038,8 @@
       107457, 
       123536, 
       126930, 
-      149857
+      149857, 
+      168444
     ], 
     "country": "RUS", 
     "name": "KUZNETSOV Viacheslav", 
@@ -1930,7 +2053,8 @@
       111, 
       104, 
       100, 
-      138
+      138, 
+      141
     ], 
     "team_id": "KAT", 
     "team_name": "TEAM KATUSHA"
@@ -1946,7 +2070,8 @@
       108122, 
       124452, 
       127587, 
-      149912
+      149912, 
+      168164
     ], 
     "country": "RUS", 
     "name": "VOROBYEV Anton", 
@@ -1960,7 +2085,8 @@
       157, 
       158, 
       146, 
-      141
+      141, 
+      131
     ], 
     "team_id": "KAT", 
     "team_name": "TEAM KATUSHA"
@@ -1976,7 +2102,8 @@
       107782, 
       124112, 
       127645, 
-      150572
+      150572, 
+      169080
     ], 
     "country": "RUS", 
     "name": "PORSEV Alexander", 
@@ -1990,7 +2117,8 @@
       132, 
       136, 
       151, 
-      161
+      161, 
+      157
     ], 
     "team_id": "KAT", 
     "team_name": "TEAM KATUSHA"
@@ -2006,7 +2134,8 @@
       106354, 
       122081, 
       125652, 
-      146593
+      146593, 
+      165180
     ], 
     "country": "RUS", 
     "name": "SILIN Egor", 
@@ -2020,7 +2149,8 @@
       45, 
       46, 
       50, 
-      40
+      40, 
+      48
     ], 
     "team_id": "KAT", 
     "team_name": "TEAM KATUSHA"
@@ -2036,7 +2166,8 @@
       105869, 
       121269, 
       124706, 
-      146778
+      146778, 
+      164583
     ], 
     "country": "EST", 
     "name": "TAARAMAE Rein", 
@@ -2050,7 +2181,8 @@
       14, 
       18, 
       26, 
-      41
+      41, 
+      36
     ], 
     "team_id": "KAT", 
     "team_name": "TEAM KATUSHA"
@@ -2094,7 +2226,8 @@
       106214, 
       122064, 
       125568, 
-      146933
+      146933, 
+      164867
     ], 
     "country": "ITA", 
     "name": "MALACARNE Davide", 
@@ -2108,7 +2241,8 @@
       43, 
       45, 
       45, 
-      45
+      45, 
+      43
     ], 
     "team_id": "AST", 
     "team_name": "ASTANA PRO TEAM"
@@ -2124,7 +2258,8 @@
       105841, 
       121187, 
       124435, 
-      145242
+      145242, 
+      163047
     ], 
     "country": "NED", 
     "name": "KRUIJSWIJK Steven", 
@@ -2137,6 +2272,7 @@
       5, 
       5, 
       3, 
+      4, 
       4, 
       4
     ], 
@@ -2154,7 +2290,8 @@
       106469, 
       122319, 
       125659, 
-      147024
+      147024, 
+      164829
     ], 
     "country": "ITA", 
     "name": "BATTAGLIN Enrico", 
@@ -2168,7 +2305,8 @@
       48, 
       53, 
       51, 
-      48
+      48, 
+      42
     ], 
     "team_id": "TLJ", 
     "team_name": "TEAM LOTTO NL - JUMBO"
@@ -2184,7 +2322,8 @@
       107457, 
       123787, 
       127242, 
-      149567
+      149567, 
+      168154
     ], 
     "country": "NED", 
     "name": "HOFLAND Moreno", 
@@ -2198,7 +2337,8 @@
       112, 
       118, 
       121, 
-      123
+      123, 
+      130
     ], 
     "team_id": "TLJ", 
     "team_name": "TEAM LOTTO NL - JUMBO"
@@ -2214,7 +2354,8 @@
       108022, 
       124352, 
       127756, 
-      149828
+      149828, 
+      168415
     ], 
     "country": "NED", 
     "name": "CASTELIJNS Twan", 
@@ -2228,7 +2369,8 @@
       152, 
       155, 
       154, 
-      137
+      137, 
+      140
     ], 
     "team_id": "TLJ", 
     "team_name": "TEAM LOTTO NL - JUMBO"
@@ -2244,7 +2386,8 @@
       107786, 
       124116, 
       127344, 
-      149416
+      149416, 
+      168003
     ], 
     "country": "NED", 
     "name": "KEIZER Martijn", 
@@ -2258,7 +2401,8 @@
       133, 
       137, 
       131, 
-      117
+      117, 
+      125
     ], 
     "team_id": "TLJ", 
     "team_name": "TEAM LOTTO NL - JUMBO"
@@ -2274,7 +2418,8 @@
       107878, 
       124208, 
       127313, 
-      148678
+      148678, 
+      166778
     ], 
     "country": "SLO", 
     "name": "ROGLIC Primoz", 
@@ -2288,7 +2433,8 @@
       144, 
       146, 
       127, 
-      83
+      83, 
+      76
     ], 
     "team_id": "TLJ", 
     "team_name": "TEAM LOTTO NL - JUMBO"
@@ -2304,7 +2450,8 @@
       106662, 
       122389, 
       125723, 
-      147175
+      147175, 
+      165057
     ], 
     "country": "NED", 
     "name": "TANKINK Bram", 
@@ -2318,7 +2465,8 @@
       53, 
       55, 
       53, 
-      52
+      52, 
+      46
     ], 
     "team_id": "TLJ", 
     "team_name": "TEAM LOTTO NL - JUMBO"
@@ -2334,7 +2482,8 @@
       108480, 
       124810, 
       127991, 
-      150316
+      150316, 
+      168903
     ], 
     "country": "NED", 
     "name": "TJALLINGII Maarten", 
@@ -2348,7 +2497,8 @@
       174, 
       172, 
       161, 
-      151
+      151, 
+      150
     ], 
     "team_id": "TLJ", 
     "team_name": "TEAM LOTTO NL - JUMBO"
@@ -2364,7 +2514,8 @@
       107474, 
       123804, 
       126977, 
-      149049
+      149049, 
+      167636
     ], 
     "country": "NED", 
     "name": "VAN EMDEN Jos", 
@@ -2378,7 +2529,8 @@
       114, 
       120, 
       102, 
-      100
+      100, 
+      110
     ], 
     "team_id": "TLJ", 
     "team_name": "TEAM LOTTO NL - JUMBO"
@@ -2394,7 +2546,8 @@
       105885, 
       121285, 
       124824, 
-      145652
+      145652, 
+      164509
     ], 
     "country": "ITA", 
     "name": "SCARPONI Michele", 
@@ -2408,7 +2561,8 @@
       18, 
       19, 
       30, 
-      25
+      25, 
+      35
     ], 
     "team_id": "AST", 
     "team_name": "ASTANA PRO TEAM"
@@ -2452,7 +2606,8 @@
       106630, 
       122960, 
       126505, 
-      148830
+      148830, 
+      167591
     ], 
     "country": "USA", 
     "name": "BOSWELL Ian", 
@@ -2466,7 +2621,8 @@
       52, 
       73, 
       77, 
-      90
+      90, 
+      109
     ], 
     "team_id": "SKY", 
     "team_name": "TEAM SKY"
@@ -2482,7 +2638,8 @@
       107157, 
       123487, 
       126864, 
-      149189
+      149189, 
+      167697
     ], 
     "country": "IRL", 
     "name": "DEIGNAN Philip", 
@@ -2496,7 +2653,8 @@
       86, 
       99, 
       95, 
-      109
+      109, 
+      115
     ], 
     "team_id": "SKY", 
     "team_name": "TEAM SKY"
@@ -2512,7 +2670,8 @@
       106041, 
       121752, 
       125097, 
-      145909
+      145909, 
+      163791
     ], 
     "country": "COL", 
     "name": "HENAO Sebastian", 
@@ -2526,7 +2685,8 @@
       33, 
       39, 
       36, 
-      30
+      30, 
+      25
     ], 
     "team_id": "SKY", 
     "team_name": "TEAM SKY"
@@ -2542,7 +2702,8 @@
       106174, 
       121574, 
       125005, 
-      147932
+      147932, 
+      165737
     ], 
     "country": "ESP", 
     "name": "NIEVE Mikel", 
@@ -2556,7 +2717,8 @@
       42, 
       33, 
       33, 
-      64
+      64, 
+      55
     ], 
     "team_id": "SKY", 
     "team_name": "TEAM SKY"
@@ -2572,7 +2734,8 @@
       107282, 
       123612, 
       126916, 
-      148281
+      148281, 
+      167138
     ], 
     "country": "GER", 
     "name": "KNEES Christian", 
@@ -2586,7 +2749,8 @@
       98, 
       107, 
       99, 
-      72
+      72, 
+      92
     ], 
     "team_id": "SKY", 
     "team_name": "TEAM SKY"
@@ -2602,7 +2766,8 @@
       106809, 
       122784, 
       126398, 
-      149325
+      149325, 
+      167833
     ], 
     "country": "ESP", 
     "name": "LOPEZ GARCIA David", 
@@ -2616,7 +2781,8 @@
       62, 
       66, 
       72, 
-      111
+      111, 
+      119
     ], 
     "team_id": "SKY", 
     "team_name": "TEAM SKY"
@@ -2632,7 +2798,8 @@
       105878, 
       121428, 
       124791, 
-      145732
+      145732, 
+      164240
     ], 
     "country": "IRL", 
     "name": "ROCHE Nicholas", 
@@ -2646,7 +2813,8 @@
       16, 
       29, 
       28, 
-      26
+      26, 
+      31
     ], 
     "team_id": "SKY", 
     "team_name": "TEAM SKY"
@@ -2686,7 +2854,8 @@
       106112, 
       121839, 
       125347, 
-      146288
+      146288, 
+      164245
     ], 
     "country": "KAZ", 
     "name": "ZEITS Andrey", 
@@ -2700,7 +2869,8 @@
       39, 
       41, 
       41, 
-      38
+      38, 
+      32
     ], 
     "team_id": "AST", 
     "team_name": "ASTANA PRO TEAM"
@@ -2716,7 +2886,8 @@
       105859, 
       121208, 
       124489, 
-      145296
+      145296, 
+      163101
     ], 
     "country": "POL", 
     "name": "MAJKA Rafal", 
@@ -2730,7 +2901,8 @@
       12, 
       8, 
       9, 
-      7
+      7, 
+      6
     ], 
     "team_id": "TNK", 
     "team_name": "TINKOFF"
@@ -2746,7 +2918,8 @@
       107106, 
       122516, 
       125712, 
-      146813
+      146813, 
+      164618
     ], 
     "country": "ITA", 
     "name": "BOARO Manuele", 
@@ -2760,7 +2933,8 @@
       82, 
       58, 
       52, 
-      43
+      43, 
+      38
     ], 
     "team_id": "TNK", 
     "team_name": "TINKOFF"
@@ -2776,7 +2950,8 @@
       107377, 
       123707, 
       127061, 
-      149133
+      149133, 
+      167067
     ], 
     "country": "RUS", 
     "name": "BRUTT Pavel", 
@@ -2790,7 +2965,8 @@
       103, 
       111, 
       108, 
-      105
+      105, 
+      86
     ], 
     "team_id": "TNK", 
     "team_name": "TINKOFF"
@@ -2806,7 +2982,8 @@
       107517, 
       123492, 
       126978, 
-      147936
+      147936, 
+      166523
     ], 
     "country": "ESP", 
     "name": "HERNANDEZ Jesus", 
@@ -2820,7 +2997,8 @@
       118, 
       100, 
       103, 
-      65
+      65, 
+      67
     ], 
     "team_id": "TNK", 
     "team_name": "TINKOFF"
@@ -2836,7 +3014,8 @@
       107021, 
       122748, 
       126182, 
-      149109
+      149109, 
+      167696
     ], 
     "country": "AUS", 
     "name": "MCCARTHY Jay", 
@@ -2850,7 +3029,8 @@
       77, 
       64, 
       65, 
-      103
+      103, 
+      114
     ], 
     "team_id": "TNK", 
     "team_name": "TINKOFF"
@@ -2866,7 +3046,8 @@
       106020, 
       121747, 
       125225, 
-      146085
+      146085, 
+      164593
     ], 
     "country": "POL", 
     "name": "POLJANSKI Pawel", 
@@ -2880,7 +3061,8 @@
       32, 
       38, 
       39, 
-      36
+      36, 
+      37
     ], 
     "team_id": "TNK", 
     "team_name": "TINKOFF"
@@ -2896,7 +3078,8 @@
       106485, 
       122035, 
       125609, 
-      146317
+      146317, 
+      164825
     ], 
     "country": "RUS", 
     "name": "ROVNY Ivan", 
@@ -2910,7 +3093,8 @@
       50, 
       44, 
       48, 
-      39
+      39, 
+      41
     ], 
     "team_id": "TNK", 
     "team_name": "TINKOFF"
@@ -2926,7 +3110,8 @@
       106381, 
       122231, 
       125776, 
-      147228
+      147228, 
+      166128
     ], 
     "country": "RUS", 
     "name": "PETROV Evgeny", 
@@ -2940,7 +3125,8 @@
       46, 
       51, 
       54, 
-      53
+      53, 
+      60
     ], 
     "team_id": "TNK", 
     "team_name": "TINKOFF"
@@ -2956,7 +3142,8 @@
       107614, 
       123944, 
       127381, 
-      149453
+      149453, 
+      167387
     ], 
     "country": "ITA", 
     "name": "TOSATTO Matteo", 
@@ -2970,7 +3157,8 @@
       121, 
       128, 
       132, 
-      119
+      119, 
+      103
     ], 
     "team_id": "TNK", 
     "team_name": "TINKOFF"
@@ -2986,7 +3174,8 @@
       106873, 
       122848, 
       126296, 
-      147108
+      147108, 
+      165695
     ], 
     "country": "FRA", 
     "name": "BONNAFOND Guillaume", 
@@ -3000,7 +3189,8 @@
       69, 
       70, 
       69, 
-      51
+      51, 
+      54
     ], 
     "team_id": "ALM", 
     "team_name": "AG2R LA MONDIALE"
@@ -3016,7 +3206,8 @@
       105910, 
       121310, 
       124593, 
-      145411
+      145411, 
+      163216
     ], 
     "country": "CAN", 
     "name": "HESJEDAL Ryder", 
@@ -3030,7 +3221,8 @@
       21, 
       22, 
       16, 
-      14
+      14, 
+      13
     ], 
     "team_id": "TFS", 
     "team_name": "TREK - SEGAFREDO"
@@ -3046,7 +3238,8 @@
       107257, 
       123232, 
       126743, 
-      149068
+      149068, 
+      167168
     ], 
     "country": "ITA", 
     "name": "ALAFACI Eugenio", 
@@ -3060,7 +3253,8 @@
       96, 
       90, 
       91, 
-      101
+      101, 
+      94
     ], 
     "team_id": "TFS", 
     "team_name": "TREK - SEGAFREDO"
@@ -3076,7 +3270,8 @@
       109316, 
       125646, 
       128956, 
-      151883
+      151883, 
+      170470
     ], 
     "country": "AUS", 
     "name": "BOBRIDGE Jack", 
@@ -3090,7 +3285,8 @@
       188, 
       185, 
       183, 
-      180
+      180, 
+      178
     ], 
     "team_id": "TFS", 
     "team_name": "TREK - SEGAFREDO"
@@ -3134,7 +3330,8 @@
       107997, 
       124327, 
       127706, 
-      150031
+      150031, 
+      167982
     ], 
     "country": "ITA", 
     "name": "COLEDAN Marco", 
@@ -3148,7 +3345,8 @@
       149, 
       152, 
       152, 
-      145
+      145, 
+      124
     ], 
     "team_id": "TFS", 
     "team_name": "TREK - SEGAFREDO"
@@ -3164,7 +3362,8 @@
       107005, 
       123084, 
       126577, 
-      148029
+      148029, 
+      166537
     ], 
     "country": "LUX", 
     "name": "DIDIER Laurent", 
@@ -3178,7 +3377,8 @@
       75, 
       79, 
       83, 
-      69
+      69, 
+      68
     ], 
     "team_id": "TFS", 
     "team_name": "TREK - SEGAFREDO"
@@ -3194,7 +3394,8 @@
       106860, 
       123190, 
       126767, 
-      149092
+      149092, 
+      166897
     ], 
     "country": "ITA", 
     "name": "NIZZOLO Giacomo", 
@@ -3208,7 +3409,8 @@
       68, 
       85, 
       92, 
-      102
+      102, 
+      82
     ], 
     "team_id": "TFS", 
     "team_name": "TREK - SEGAFREDO"
@@ -3248,7 +3450,8 @@
       107187, 
       122959, 
       126472, 
-      147350
+      147350, 
+      165937
     ], 
     "country": "AUT", 
     "name": "ZOIDL Riccardo", 
@@ -3262,7 +3465,8 @@
       89, 
       72, 
       74, 
-      57
+      57, 
+      58
     ], 
     "team_id": "TFS", 
     "team_name": "TREK - SEGAFREDO"
@@ -3278,7 +3482,8 @@
       105893, 
       121293, 
       124632, 
-      145442
+      145442, 
+      163247
     ], 
     "country": "ITA", 
     "name": "PIRAZZI Stefano", 
@@ -3292,6 +3497,7 @@
       20, 
       20, 
       18, 
+      15, 
       15
     ], 
     "team_id": "BAR", 
@@ -3308,7 +3514,8 @@
       107253, 
       123228, 
       126719, 
-      149044
+      149044, 
+      167552
     ], 
     "country": "ITA", 
     "name": "POZZATO Filippo", 
@@ -3322,7 +3529,8 @@
       94, 
       88, 
       88, 
-      99
+      99, 
+      107
     ], 
     "team_id": "STH", 
     "team_name": "WILIER TRIESTINA - SOUTHEAST"
@@ -3338,7 +3546,8 @@
       108444, 
       124774, 
       128164, 
-      150489
+      150489, 
+      169076
     ], 
     "country": "ESP", 
     "name": "AMEZQUETA Julen", 
@@ -3352,7 +3561,8 @@
       170, 
       169, 
       166, 
-      158
+      158, 
+      156
     ], 
     "team_id": "STH", 
     "team_name": "WILIER TRIESTINA - SOUTHEAST"
@@ -3368,7 +3578,8 @@
       107031, 
       123006, 
       126541, 
-      148866
+      148866, 
+      166800
     ], 
     "country": "ITA", 
     "name": "BELLETTI Manuel", 
@@ -3382,7 +3593,8 @@
       78, 
       74, 
       80, 
-      92
+      92, 
+      78
     ], 
     "team_id": "STH", 
     "team_name": "WILIER TRIESTINA - SOUTHEAST"
@@ -3398,7 +3610,8 @@
       107381, 
       123711, 
       127091, 
-      149416
+      149416, 
+      167922
     ], 
     "country": "ITA", 
     "name": "BERTAZZO Liam", 
@@ -3412,7 +3625,8 @@
       104, 
       112, 
       113, 
-      116
+      116, 
+      122
     ], 
     "team_id": "STH", 
     "team_name": "WILIER TRIESTINA - SOUTHEAST"
@@ -3428,7 +3642,8 @@
       106481, 
       122031, 
       125545, 
-      147870
+      147870, 
+      166378
     ], 
     "country": "ITA", 
     "name": "BUSATO Matteo", 
@@ -3442,7 +3657,8 @@
       49, 
       43, 
       44, 
-      63
+      63, 
+      64
     ], 
     "team_id": "STH", 
     "team_name": "WILIER TRIESTINA - SOUTHEAST"
@@ -3458,7 +3674,8 @@
       107809, 
       124139, 
       127551, 
-      149003
+      149003, 
+      167511
     ], 
     "country": "ESP", 
     "name": "RODRIGUEZ Cristian", 
@@ -3472,7 +3689,8 @@
       135, 
       139, 
       144, 
-      98
+      98, 
+      104
     ], 
     "team_id": "STH", 
     "team_name": "WILIER TRIESTINA - SOUTHEAST"
@@ -3506,7 +3724,8 @@
       107722, 
       124052, 
       127516, 
-      149588
+      149588, 
+      167522
     ], 
     "country": "COL", 
     "name": "MARTINEZ Daniel", 
@@ -3520,7 +3739,8 @@
       128, 
       133, 
       140, 
-      124
+      124, 
+      105
     ], 
     "team_id": "STH", 
     "team_name": "WILIER TRIESTINA - SOUTHEAST"
@@ -3536,7 +3756,8 @@
       107312, 
       123642, 
       127184, 
-      149509
+      149509, 
+      168017
     ], 
     "country": "ALB", 
     "name": "ZHUPA Eugert", 
@@ -3550,7 +3771,8 @@
       101, 
       109, 
       117, 
-      120
+      120, 
+      126
     ], 
     "team_id": "STH", 
     "team_name": "WILIER TRIESTINA - SOUTHEAST"
@@ -3566,7 +3788,8 @@
       108775, 
       125105, 
       128509, 
-      150834
+      150834, 
+      168785
     ], 
     "country": "ITA", 
     "name": "ANDREETTA Simone", 
@@ -3580,7 +3803,8 @@
       182, 
       180, 
       179, 
-      169
+      169, 
+      145
     ], 
     "team_id": "BAR", 
     "team_name": "BARDIANI CSF"
@@ -3596,7 +3820,8 @@
       107867, 
       124197, 
       127639, 
-      149964
+      149964, 
+      168064
     ], 
     "country": "ITA", 
     "name": "SIMION Paolo", 
@@ -3610,7 +3835,8 @@
       142, 
       144, 
       150, 
-      144
+      144, 
+      127
     ], 
     "team_id": "BAR", 
     "team_name": "BARDIANI CSF"
@@ -3626,7 +3852,8 @@
       108640, 
       124970, 
       128325, 
-      150705
+      150705, 
+      169301
     ], 
     "country": "ITA", 
     "name": "BOEM Nicola", 
@@ -3640,7 +3867,8 @@
       178, 
       177, 
       176, 
-      167
+      167, 
+      163
     ], 
     "team_id": "BAR", 
     "team_name": "BARDIANI CSF"
@@ -3656,7 +3884,8 @@
       106451, 
       122781, 
       126322, 
-      148394
+      148394, 
+      166981
     ], 
     "country": "ITA", 
     "name": "BONGIORNO Francesco Manuel", 
@@ -3670,7 +3899,8 @@
       47, 
       65, 
       70, 
-      75
+      75, 
+      84
     ], 
     "team_id": "BAR", 
     "team_name": "BARDIANI CSF"
@@ -3686,7 +3916,8 @@
       107228, 
       123558, 
       127073, 
-      147735
+      147735, 
+      166342
     ], 
     "country": "ITA", 
     "name": "CICCONE Giulio", 
@@ -3700,7 +3931,8 @@
       93, 
       106, 
       109, 
-      60
+      60, 
+      63
     ], 
     "team_id": "BAR", 
     "team_name": "BARDIANI CSF"
@@ -3716,7 +3948,8 @@
       107216, 
       123191, 
       126692, 
-      148764
+      148764, 
+      166569
     ], 
     "country": "ITA", 
     "name": "COLBRELLI Sonny", 
@@ -3730,7 +3963,8 @@
       92, 
       86, 
       87, 
-      86
+      86, 
+      71
     ], 
     "team_id": "BAR", 
     "team_name": "BARDIANI CSF"
@@ -3746,7 +3980,8 @@
       107308, 
       123283, 
       126804, 
-      149129
+      149129, 
+      167637
     ], 
     "country": "ITA", 
     "name": "MAESTRI Mirco", 
@@ -3760,7 +3995,8 @@
       100, 
       93, 
       93, 
-      104
+      104, 
+      111
     ], 
     "team_id": "BAR", 
     "team_name": "BARDIANI CSF"
@@ -3776,7 +4012,8 @@
       108234, 
       124564, 
       128093, 
-      150602
+      150602, 
+      169189
     ], 
     "country": "ITA", 
     "name": "RUFFONI Nicola", 
@@ -3790,7 +4027,8 @@
       164, 
       162, 
       165, 
-      162
+      162, 
+      160
     ], 
     "team_id": "BAR", 
     "team_name": "BARDIANI CSF"
@@ -3806,7 +4044,8 @@
       107271, 
       123246, 
       126685, 
-      147959
+      147959, 
+      166546
     ], 
     "country": "FRA", 
     "name": "DOMONT Axel", 
@@ -3820,7 +4059,8 @@
       97, 
       91, 
       86, 
-      66
+      66, 
+      69
     ], 
     "team_id": "ALM", 
     "team_name": "AG2R LA MONDIALE"
@@ -3836,7 +4076,8 @@
       107462, 
       123792, 
       127286, 
-      148355
+      148355, 
+      166942
     ], 
     "country": "ITA", 
     "name": "SENNI Manuel", 
@@ -3850,7 +4091,8 @@
       113, 
       119, 
       125, 
-      73
+      73, 
+      83
     ], 
     "team_id": "BMC", 
     "team_name": "BMC RACING TEAM"
@@ -3866,7 +4108,8 @@
       106045, 
       121595, 
       125097, 
-      145845
+      145845, 
+      163802
     ], 
     "country": "COL", 
     "name": "ATAPUMA Darwin", 
@@ -3880,7 +4123,8 @@
       34, 
       34, 
       35, 
-      28
+      28, 
+      26
     ], 
     "team_id": "BMC", 
     "team_name": "BMC RACING TEAM"
@@ -3896,7 +4140,8 @@
       108186, 
       123524, 
       126998, 
-      149361
+      149361, 
+      167882
     ], 
     "country": "ITA", 
     "name": "DE MARCHI Alessandro", 
@@ -3910,7 +4155,8 @@
       162, 
       102, 
       105, 
-      113
+      113, 
+      120
     ], 
     "team_id": "BMC", 
     "team_name": "BMC RACING TEAM"
@@ -3940,7 +4186,8 @@
       106715, 
       122794, 
       125957, 
-      147761
+      147761, 
+      165645
     ], 
     "country": "SUI", 
     "name": "KUNG Stefan", 
@@ -3954,7 +4201,8 @@
       54, 
       67, 
       60, 
-      61
+      61, 
+      52
     ], 
     "team_id": "BMC", 
     "team_name": "BMC RACING TEAM"
@@ -3970,7 +4218,8 @@
       107863, 
       124193, 
       127563, 
-      149888
+      149888, 
+      167974
     ], 
     "country": "ITA", 
     "name": "OSS Daniel", 
@@ -3984,7 +4233,8 @@
       141, 
       143, 
       145, 
-      140
+      140, 
+      123
     ], 
     "team_id": "BMC", 
     "team_name": "BMC RACING TEAM"
@@ -4000,7 +4250,8 @@
       107435, 
       123765, 
       127194, 
-      149519
+      149519, 
+      168106
     ], 
     "country": "ITA", 
     "name": "QUINZIATO Manuel", 
@@ -4014,7 +4265,8 @@
       108, 
       115, 
       118, 
-      121
+      121, 
+      128
     ], 
     "team_id": "BMC", 
     "team_name": "BMC RACING TEAM"
@@ -4030,7 +4282,8 @@
       107802, 
       123777, 
       127328, 
-      149653
+      149653, 
+      167554
     ], 
     "country": "USA", 
     "name": "ROSSKOPF Joseph", 
@@ -4044,7 +4297,8 @@
       134, 
       117, 
       128, 
-      129
+      129, 
+      108
     ], 
     "team_id": "BMC", 
     "team_name": "BMC RACING TEAM"
@@ -4060,7 +4314,8 @@
       107300, 
       123630, 
       127112, 
-      150039
+      150039, 
+      168896
     ], 
     "country": "GER", 
     "name": "ZABEL Rick", 
@@ -4074,7 +4329,8 @@
       99, 
       108, 
       114, 
-      146
+      146, 
+      149
     ], 
     "team_id": "BMC", 
     "team_name": "BMC RACING TEAM"
@@ -4090,7 +4346,8 @@
       106092, 
       121492, 
       124956, 
-      145795
+      145795, 
+      163752
     ], 
     "country": "FRA", 
     "name": "DUPONT Hubert", 
@@ -4104,7 +4361,8 @@
       38, 
       32, 
       31, 
-      27
+      27, 
+      24
     ], 
     "team_id": "ALM", 
     "team_name": "AG2R LA MONDIALE"
@@ -4120,7 +4378,8 @@
       105854, 
       121203, 
       124560, 
-      145367
+      145367, 
+      163172
     ], 
     "country": "COL", 
     "name": "URAN URAN Rigoberto", 
@@ -4134,7 +4393,8 @@
       10, 
       7, 
       15, 
-      13
+      13, 
+      11
     ], 
     "team_id": "CPT", 
     "team_name": "CANNONDALE PRO CYCLING TEAM"
@@ -4150,7 +4410,8 @@
       106008, 
       121424, 
       125009, 
-      145950
+      145950, 
+      163907
     ], 
     "country": "POR", 
     "name": "CARDOSO Andre Fernando S", 
@@ -4164,7 +4425,8 @@
       31, 
       28, 
       34, 
-      32
+      32, 
+      28
     ], 
     "team_id": "CPT", 
     "team_name": "CANNONDALE PRO CYCLING TEAM"
@@ -4180,7 +4442,8 @@
       107095, 
       122645, 
       126203, 
-      148528
+      148528, 
+      167115
     ], 
     "country": "AUS", 
     "name": "CLARKE Simon", 
@@ -4194,7 +4457,8 @@
       80, 
       62, 
       66, 
-      78
+      78, 
+      90
     ], 
     "team_id": "CPT", 
     "team_name": "CANNONDALE PRO CYCLING TEAM"
@@ -4210,7 +4474,8 @@
       106811, 
       122661, 
       126162, 
-      147103
+      147103, 
+      165690
     ], 
     "country": "USA", 
     "name": "DOMBROWSKI Joseph Lloyd", 
@@ -4224,7 +4489,8 @@
       63, 
       63, 
       64, 
-      50
+      50, 
+      53
     ], 
     "team_id": "CPT", 
     "team_name": "CANNONDALE PRO CYCLING TEAM"
@@ -4240,7 +4506,8 @@
       105923, 
       121323, 
       124706, 
-      145524
+      145524, 
+      163329
     ], 
     "country": "ITA", 
     "name": "FORMOLO Davide", 
@@ -4254,6 +4521,7 @@
       23, 
       23, 
       25, 
+      19, 
       19
     ], 
     "team_id": "CPT", 
@@ -4270,7 +4538,8 @@
       106985, 
       122313, 
       125895, 
-      147347
+      147347, 
+      165934
     ], 
     "country": "ITA", 
     "name": "MOSER Moreno", 
@@ -4284,7 +4553,8 @@
       74, 
       52, 
       57, 
-      56
+      56, 
+      57
     ], 
     "team_id": "CPT", 
     "team_name": "CANNONDALE PRO CYCLING TEAM"
@@ -4300,7 +4570,8 @@
       107644, 
       123974, 
       127432, 
-      149945
+      149945, 
+      168802
     ], 
     "country": "LTU", 
     "name": "NAVARDAUSKAS Ramunas", 
@@ -4314,7 +4585,8 @@
       123, 
       130, 
       136, 
-      142
+      142, 
+      146
     ], 
     "team_id": "CPT", 
     "team_name": "CANNONDALE PRO CYCLING TEAM"
@@ -4330,7 +4602,8 @@
       107208, 
       123538, 
       126991, 
-      148443
+      148443, 
+      167300
     ], 
     "country": "ITA", 
     "name": "BETTIOL Alberto", 
@@ -4344,7 +4617,8 @@
       91, 
       105, 
       104, 
-      77
+      77, 
+      98
     ], 
     "team_id": "CPT", 
     "team_name": "CANNONDALE PRO CYCLING TEAM"
@@ -4360,7 +4634,8 @@
       106735, 
       122585, 
       126023, 
-      146808
+      146808, 
+      165316
     ], 
     "country": "USA", 
     "name": "BROWN Nathan", 
@@ -4374,7 +4649,8 @@
       57, 
       59, 
       61, 
-      42
+      42, 
+      50
     ], 
     "team_id": "CPT", 
     "team_name": "CANNONDALE PRO CYCLING TEAM"
@@ -4390,7 +4666,8 @@
       107770, 
       124100, 
       127303, 
-      149628
+      149628, 
+      168215
     ], 
     "country": "GER", 
     "name": "GRETSCH Patrick", 
@@ -4404,7 +4681,8 @@
       131, 
       135, 
       126, 
-      128
+      128, 
+      133
     ], 
     "team_id": "ALM", 
     "team_name": "AG2R LA MONDIALE"
@@ -4420,7 +4698,8 @@
       106049, 
       121457, 
       124809, 
-      145621
+      145621, 
+      163578
     ], 
     "country": "ESP", 
     "name": "ANTON HERNANDEZ Igor", 
@@ -4434,7 +4713,8 @@
       36, 
       31, 
       29, 
-      23
+      23, 
+      22
     ], 
     "team_id": "DDD", 
     "team_name": "TEAM DIMENSION DATA"
@@ -4468,7 +4748,8 @@
       108162, 
       124492, 
       127995, 
-      150320
+      150320, 
+      168907
     ], 
     "country": "RSA", 
     "name": "JIM Songezo", 
@@ -4482,7 +4763,8 @@
       160, 
       160, 
       162, 
-      152
+      152, 
+      151
     ], 
     "team_id": "DDD", 
     "team_name": "TEAM DIMENSION DATA"
@@ -4498,7 +4780,8 @@
       106114, 
       121817, 
       125302, 
-      146996
+      146996, 
+      164953
     ], 
     "country": "ERI", 
     "name": "KUDUS GHEBREMEDHIN Merhawi", 
@@ -4512,7 +4795,8 @@
       41, 
       40, 
       40, 
-      47
+      47, 
+      45
     ], 
     "team_id": "DDD", 
     "team_name": "TEAM DIMENSION DATA"
@@ -4528,7 +4812,8 @@
       106734, 
       122813, 
       126288, 
-      148613
+      148613, 
+      166547
     ], 
     "country": "ITA", 
     "name": "SBARAGLI Kristian", 
@@ -4542,7 +4827,8 @@
       56, 
       69, 
       68, 
-      81
+      81, 
+      70
     ], 
     "team_id": "DDD", 
     "team_name": "TEAM DIMENSION DATA"
@@ -4558,7 +4844,8 @@
       105852, 
       121252, 
       124632, 
-      145448
+      145448, 
+      163253
     ], 
     "country": "BLR", 
     "name": "SIUTSOU Kanstantsin", 
@@ -4572,6 +4859,7 @@
       9, 
       17, 
       17, 
+      16, 
       16
     ], 
     "team_id": "DDD", 
@@ -4588,7 +4876,8 @@
       108591, 
       124921, 
       128408, 
-      150733
+      150733, 
+      169320
     ], 
     "country": "RSA", 
     "name": "THOMSON Jay Robert", 
@@ -4602,7 +4891,8 @@
       177, 
       176, 
       178, 
-      168
+      168, 
+      165
     ], 
     "team_id": "DDD", 
     "team_name": "TEAM DIMENSION DATA"
@@ -4618,7 +4908,8 @@
       107731, 
       123706, 
       127125, 
-      149450
+      149450, 
+      167384
     ], 
     "country": "RSA", 
     "name": "VAN ZYL Johann", 
@@ -4632,7 +4923,8 @@
       129, 
       110, 
       115, 
-      118
+      118, 
+      102
     ], 
     "team_id": "DDD", 
     "team_name": "TEAM DIMENSION DATA"
@@ -4648,7 +4940,8 @@
       107684, 
       123017, 
       126497, 
-      148822
+      148822, 
+      167330
     ], 
     "country": "RSA", 
     "name": "VENTER Jacobus", 
@@ -4662,7 +4955,8 @@
       125, 
       76, 
       76, 
-      89
+      89, 
+      100
     ], 
     "team_id": "DDD", 
     "team_name": "TEAM DIMENSION DATA"
@@ -4678,7 +4972,8 @@
       107098, 
       123428, 
       126724, 
-      148418
+      148418, 
+      167275
     ], 
     "country": "CAN", 
     "name": "HOULE Hugo", 
@@ -4692,7 +4987,8 @@
       81, 
       97, 
       89, 
-      76
+      76, 
+      97
     ], 
     "team_id": "ALM", 
     "team_name": "AG2R LA MONDIALE"
@@ -4734,7 +5030,8 @@
       105919, 
       121154, 
       124384, 
-      145263
+      145263, 
+      163145
     ], 
     "country": "ITA", 
     "name": "BRAMBILLA Gianluca", 
@@ -4748,7 +5045,8 @@
       22, 
       1, 
       1, 
-      6
+      6, 
+      9
     ], 
     "team_id": "EQS", 
     "team_name": "ETIXX - QUICK-STEP"
@@ -4764,7 +5062,8 @@
       105944, 
       121444, 
       124716, 
-      145956
+      145956, 
+      164289
     ], 
     "country": "ESP", 
     "name": "DE LA CRUZ David", 
@@ -4778,6 +5077,7 @@
       25, 
       30, 
       27, 
+      33, 
       33
     ], 
     "team_id": "EQS", 
@@ -4794,7 +5094,8 @@
       105838, 
       121235, 
       124385, 
-      145192
+      145192, 
+      162980
     ], 
     "country": "LUX", 
     "name": "JUNGELS Bob", 
@@ -4808,6 +5109,7 @@
       4, 
       14, 
       2, 
+      1, 
       1
     ], 
     "team_id": "EQS", 
@@ -4824,7 +5126,8 @@
       107809, 
       124139, 
       127445, 
-      149770
+      149770, 
+      168278
     ], 
     "country": "ITA", 
     "name": "SABATINI Fabio", 
@@ -4838,7 +5141,8 @@
       136, 
       140, 
       137, 
-      133
+      133, 
+      137
     ], 
     "team_id": "EQS", 
     "team_name": "ETIXX - QUICK-STEP"
@@ -4854,7 +5158,8 @@
       107161, 
       123011, 
       126223, 
-      148010
+      148010, 
+      166867
     ], 
     "country": "BEL", 
     "name": "SERRY Pieter", 
@@ -4868,7 +5173,8 @@
       87, 
       75, 
       67, 
-      67
+      67, 
+      80
     ], 
     "team_id": "EQS", 
     "team_name": "ETIXX - QUICK-STEP"
@@ -4884,7 +5190,8 @@
       106960, 
       122435, 
       125871, 
-      148380
+      148380, 
+      166185
     ], 
     "country": "ITA", 
     "name": "TRENTIN Matteo", 
@@ -4898,7 +5205,8 @@
       71, 
       56, 
       56, 
-      74
+      74, 
+      61
     ], 
     "team_id": "EQS", 
     "team_name": "ETIXX - QUICK-STEP"
@@ -4914,7 +5222,8 @@
       105950, 
       121358, 
       124672, 
-      145613
+      145613, 
+      164470
     ], 
     "country": "ESP", 
     "name": "VERONA Carlos", 
@@ -4928,7 +5237,8 @@
       26, 
       25, 
       22, 
-      21
+      21, 
+      34
     ], 
     "team_id": "EQS", 
     "team_name": "ETIXX - QUICK-STEP"
@@ -4944,7 +5254,8 @@
       108225, 
       124555, 
       127832, 
-      150341
+      150341, 
+      168849
     ], 
     "country": "POL", 
     "name": "WISNIOWSKI Lukasz", 
@@ -4958,7 +5269,8 @@
       163, 
       161, 
       157, 
-      153
+      153, 
+      148
     ], 
     "team_id": "EQS", 
     "team_name": "ETIXX - QUICK-STEP"
@@ -4974,7 +5286,8 @@
       108888, 
       124862, 
       128314, 
-      150639
+      150639, 
+      169496
     ], 
     "country": "FRA", 
     "name": "KADRI Blel", 
@@ -4988,7 +5301,8 @@
       184, 
       175, 
       175, 
-      165
+      165, 
+      169
     ], 
     "team_id": "ALM", 
     "team_name": "AG2R LA MONDIALE"
@@ -5004,7 +5318,8 @@
       106972, 
       123302, 
       126868, 
-      149795
+      149795, 
+      168652
     ], 
     "country": "FRA", 
     "name": "DEMARE Arnaud", 
@@ -5018,7 +5333,8 @@
       73, 
       95, 
       96, 
-      135
+      135, 
+      143
     ], 
     "team_id": "FDJ", 
     "team_name": "FDJ"
@@ -5034,7 +5350,8 @@
       108083, 
       123933, 
       127329, 
-      150256
+      150256, 
+      169113
     ], 
     "country": "FRA", 
     "name": "COURTEILLE Arnaud", 
@@ -5048,7 +5365,8 @@
       155, 
       127, 
       129, 
-      150
+      150, 
+      158
     ], 
     "team_id": "FDJ", 
     "team_name": "FDJ"
@@ -5064,7 +5382,8 @@
       107963, 
       124293, 
       127616, 
-      150543
+      150543, 
+      169400
     ], 
     "country": "FRA", 
     "name": "DELAGE Mickael", 
@@ -5078,7 +5397,8 @@
       147, 
       149, 
       148, 
-      159
+      159, 
+      167
     ], 
     "team_id": "FDJ", 
     "team_name": "FDJ"
@@ -5094,7 +5414,8 @@
       108443, 
       124773, 
       128210, 
-      151137
+      151137, 
+      169994
     ], 
     "country": "BRA", 
     "name": "FISCHER Murilo Antonio", 
@@ -5108,7 +5429,8 @@
       169, 
       168, 
       167, 
-      172
+      172, 
+      176
     ], 
     "team_id": "FDJ", 
     "team_name": "FDJ"
@@ -5140,7 +5462,8 @@
       107435, 
       123765, 
       127258, 
-      150185
+      150185, 
+      169042
     ], 
     "country": "LTU", 
     "name": "KONOVALOVAS Ignatas", 
@@ -5154,7 +5477,8 @@
       109, 
       116, 
       123, 
-      149
+      149, 
+      155
     ], 
     "team_id": "FDJ", 
     "team_name": "FDJ"
@@ -5170,7 +5494,8 @@
       107934, 
       124264, 
       127719, 
-      150646
+      150646, 
+      169503
     ], 
     "country": "FRA", 
     "name": "LE GAC Olivier", 
@@ -5184,7 +5509,8 @@
       146, 
       148, 
       153, 
-      166
+      166, 
+      171
     ], 
     "team_id": "FDJ", 
     "team_name": "FDJ"
@@ -5200,7 +5526,8 @@
       108517, 
       124847, 
       128216, 
-      151143
+      151143, 
+      170000
     ], 
     "country": "FRA", 
     "name": "SARREAU Marc", 
@@ -5214,7 +5541,8 @@
       176, 
       174, 
       168, 
-      173
+      173, 
+      177
     ], 
     "team_id": "FDJ", 
     "team_name": "FDJ"
@@ -5230,7 +5558,8 @@
       107584, 
       123914, 
       127198, 
-      150125
+      150125, 
+      168982
     ], 
     "country": "FRA", 
     "name": "VAUGRENARD Benoit", 
@@ -5244,7 +5573,8 @@
       120, 
       125, 
       119, 
-      148
+      148, 
+      153
     ], 
     "team_id": "FDJ", 
     "team_name": "FDJ"
@@ -5260,7 +5590,8 @@
       106005, 
       121310, 
       124687, 
-      145628
+      145628, 
+      163585
     ], 
     "country": "ITA", 
     "name": "MONTAGUTI Matteo", 
@@ -5274,7 +5605,8 @@
       30, 
       21, 
       24, 
-      24
+      24, 
+      23
     ], 
     "team_id": "ALM", 
     "team_name": "AG2R LA MONDIALE"
@@ -5290,7 +5622,8 @@
       107350, 
       123429, 
       127084, 
-      149156
+      149156, 
+      167060
     ], 
     "country": "RUS", 
     "name": "KOLOBNEV Alexandr", 
@@ -5304,7 +5637,8 @@
       102, 
       98, 
       111, 
-      106
+      106, 
+      85
     ], 
     "team_id": "GAZ", 
     "team_name": "GAZPROM - RUSVELO"
@@ -5320,7 +5654,8 @@
       108316, 
       124646, 
       127984, 
-      150911
+      150911, 
+      169498
     ], 
     "country": "RUS", 
     "name": "RYBALKIN Aleksey", 
@@ -5334,7 +5669,8 @@
       167, 
       166, 
       160, 
-      171
+      171, 
+      170
     ], 
     "team_id": "GAZ", 
     "team_name": "GAZPROM - RUSVELO"
@@ -5350,7 +5686,8 @@
       108668, 
       125190, 
       128726, 
-      151653
+      151653, 
+      170510
     ], 
     "country": "RUS", 
     "name": "ERSHOV Artur", 
@@ -5364,7 +5701,8 @@
       180, 
       181, 
       180, 
-      179
+      179, 
+      180
     ], 
     "team_id": "GAZ", 
     "team_name": "GAZPROM - RUSVELO"
@@ -5380,7 +5718,8 @@
       105886, 
       121235, 
       124656, 
-      145474
+      145474, 
+      163279
     ], 
     "country": "RUS", 
     "name": "FIRSANOV Sergey", 
@@ -5394,6 +5733,7 @@
       19, 
       15, 
       19, 
+      17, 
       17
     ], 
     "team_id": "GAZ", 
@@ -5410,7 +5750,8 @@
       107490, 
       123820, 
       127169, 
-      148621
+      148621, 
+      167208
     ], 
     "country": "RUS", 
     "name": "FOLIFOROV Alexander", 
@@ -5424,7 +5765,8 @@
       117, 
       123, 
       116, 
-      82
+      82, 
+      96
     ], 
     "team_id": "GAZ", 
     "team_name": "GAZPROM - RUSVELO"
@@ -5440,7 +5782,8 @@
       108667, 
       124997, 
       128278, 
-      150603
+      150603, 
+      169190
     ], 
     "country": "RUS", 
     "name": "OVECHKIN Artem", 
@@ -5454,7 +5797,8 @@
       179, 
       178, 
       171, 
-      163
+      163, 
+      161
     ], 
     "team_id": "GAZ", 
     "team_name": "GAZPROM - RUSVELO"
@@ -5470,7 +5814,8 @@
       107196, 
       123526, 
       127078, 
-      149403
+      149403, 
+      167208
     ], 
     "country": "RUS", 
     "name": "SAVITSKIY Ivan", 
@@ -5484,7 +5829,8 @@
       90, 
       103, 
       110, 
-      114
+      114, 
+      95
     ], 
     "team_id": "GAZ", 
     "team_name": "GAZPROM - RUSVELO"
@@ -5500,7 +5846,8 @@
       107843, 
       123922, 
       127206, 
-      149531
+      149531, 
+      168118
     ], 
     "country": "RUS", 
     "name": "SEROV Alexander", 
@@ -5514,7 +5861,8 @@
       139, 
       126, 
       120, 
-      122
+      122, 
+      129
     ], 
     "team_id": "GAZ", 
     "team_name": "GAZPROM - RUSVELO"
@@ -5530,7 +5878,8 @@
       107898, 
       124228, 
       127626, 
-      149951
+      149951, 
+      168808
     ], 
     "country": "RUS", 
     "name": "SOLOMENNIKOV Andrey", 
@@ -5544,7 +5893,8 @@
       145, 
       147, 
       149, 
-      143
+      143, 
+      147
     ], 
     "team_id": "GAZ", 
     "team_name": "GAZPROM - RUSVELO"
@@ -5574,7 +5924,8 @@
       107020, 
       123099, 
       126495, 
-      148820
+      148820, 
+      166724
     ], 
     "country": "AUS", 
     "name": "HAUSSLER Heinrich", 
@@ -5588,7 +5939,8 @@
       76, 
       81, 
       75, 
-      88
+      88, 
+      74
     ], 
     "team_id": "IAM", 
     "team_name": "IAM CYCLING"
@@ -5604,7 +5956,8 @@
       109329, 
       125851, 
       128966, 
-      151893
+      151893, 
+      170793
     ], 
     "country": "AUT", 
     "name": "BRANDLE Matthias", 
@@ -5618,7 +5971,8 @@
       189, 
       186, 
       184, 
-      181
+      181, 
+      182
     ], 
     "team_id": "IAM", 
     "team_name": "IAM CYCLING"
@@ -5634,7 +5988,8 @@
       107381, 
       123711, 
       127087, 
-      149412
+      149412, 
+      168269
     ], 
     "country": "AUS", 
     "name": "HOWARD Leigh", 
@@ -5648,7 +6003,8 @@
       105, 
       113, 
       112, 
-      115
+      115, 
+      136
     ], 
     "team_id": "IAM", 
     "team_name": "IAM CYCLING"
@@ -5664,7 +6020,8 @@
       108106, 
       124628, 
       128299, 
-      150624
+      150624, 
+      169396
     ], 
     "country": "GER", 
     "name": "KLUGE Roger", 
@@ -5678,7 +6035,8 @@
       156, 
       165, 
       174, 
-      164
+      164, 
+      166
     ], 
     "team_id": "IAM", 
     "team_name": "IAM CYCLING"
@@ -5714,7 +6072,8 @@
       108289, 
       124143, 
       127401, 
-      149726
+      149726, 
+      167683
     ], 
     "country": "AUT", 
     "name": "DENIFL Stefan", 
@@ -5728,7 +6087,8 @@
       166, 
       141, 
       133, 
-      131
+      131, 
+      113
     ], 
     "team_id": "IAM", 
     "team_name": "IAM CYCLING"
@@ -5766,7 +6126,8 @@
       106091, 
       121621, 
       125005, 
-      145946
+      145946, 
+      164803
     ], 
     "country": "SUI", 
     "name": "WYSS Marcel", 
@@ -5780,7 +6141,8 @@
       37, 
       36, 
       32, 
-      31
+      31, 
+      40
     ], 
     "team_id": "IAM", 
     "team_name": "IAM CYCLING"
@@ -5796,7 +6158,8 @@
       107980, 
       124310, 
       127432, 
-      149757
+      149757, 
+      167912
     ], 
     "country": "NOR", 
     "name": "LAENGEN Vegard Stake", 
@@ -5810,7 +6173,8 @@
       148, 
       150, 
       135, 
-      132
+      132, 
+      121
     ], 
     "team_id": "IAM", 
     "team_name": "IAM CYCLING"

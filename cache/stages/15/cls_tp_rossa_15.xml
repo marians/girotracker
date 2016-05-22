@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="15"><![CDATA[Maglia Rossa]]></tappa>
+  <localita><![CDATA[Alpe di Siusi - km 10]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="85"><![CDATA[FOLIFOROV Alexander]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="GAZ"><![CDATA[GAZPROM - RUSVELO]]></squadra>
+       <tempo>15</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="171"><![CDATA[KRUIJSWIJK Steven]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra>
+       <tempo>12</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="121"><![CDATA[VALVERDE Alejandro]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="MOV"><![CDATA[MOVISTAR TEAM]]></squadra>
+       <tempo>9</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="84"><![CDATA[FIRSANOV Sergey]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="GAZ"><![CDATA[GAZPROM - RUSVELO]]></squadra>
+       <tempo>7</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="18"><![CDATA[SCARPONI Michele]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="AST"><![CDATA[ASTANA PRO TEAM]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="141"><![CDATA[CHAVES Esteban]]></nome>
+       <nazione>COL</nazione>
+       <squadra id="OGE"><![CDATA[ORICA GREENEDGE]]></squadra>
+       <tempo>5</tempo> 
+      </item>
+      <item> 
+       <pos>7</pos>
+       <nome numero="161"><![CDATA[ZAKARIN Ilnur]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="KAT"><![CDATA[TEAM KATUSHA]]></squadra>
+       <tempo>4</tempo> 
+      </item>
+      <item> 
+       <pos>8</pos>
+       <nome numero="44"><![CDATA[DOMBROWSKI Joseph Lloyd]]></nome>
+       <nazione>USA</nazione>
+       <squadra id="CPT"><![CDATA[CANNONDALE PRO CYCLING TEAM]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>9</pos>
+       <nome numero="64"><![CDATA[JUNGELS Bob]]></nome>
+       <nazione>LUX</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>10</pos>
+       <nome numero="191"><![CDATA[MAJKA Rafal]]></nome>
+       <nazione>POL</nazione>
+       <squadra id="TNK"><![CDATA[TINKOFF]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

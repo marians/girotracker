@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="13"><![CDATA[Maglia Azzurra]]></tappa>   
+  <localita><![CDATA[Valle - km 155]]></localita>
+  <virtuale>0</virtuale>
+<classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="185"><![CDATA[NIEVE Mikel]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="SKY"><![CDATA[TEAM SKY]]></squadra>
+       <tempo>15</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="129"><![CDATA[VISCONTI Giovanni]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="MOV"><![CDATA[MOVISTAR TEAM]]></squadra>
+       <tempo>8</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="8"><![CDATA[MONTAGUTI Matteo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="ALM"><![CDATA[AG2R LA MONDIALE]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="44"><![CDATA[DOMBROWSKI Joseph Lloyd]]></nome>
+       <nazione>USA</nazione>
+       <squadra id="CPT"><![CDATA[CANNONDALE PRO CYCLING TEAM]]></squadra>
+       <tempo>4</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="96"><![CDATA[DENIFL Stefan]]></nome>
+       <nazione>AUT</nazione>
+       <squadra id="IAM"><![CDATA[IAM CYCLING]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="14"><![CDATA[FUGLSANG Jakob]]></nome>
+       <nazione>DEN</nazione>
+       <squadra id="AST"><![CDATA[ASTANA PRO TEAM]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

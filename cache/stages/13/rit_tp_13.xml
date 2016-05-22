@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="13"><![CDATA[Elenco ritirati]]></tappa>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>DNS</pos>
+       <nome numero="29"><![CDATA[RUFFONI Nicola]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra> 
+      </item>
+      <item> 
+       <pos>DNS</pos>
+       <nome numero="114"><![CDATA[GREIPEL Andre']]></nome>
+       <nazione>GER</nazione>
+       <squadra id="LTS"><![CDATA[LOTTO SOUDAL]]></squadra> 
+      </item>
+      <item> 
+       <pos>DNS</pos>
+       <nome numero="118"><![CDATA[ROELANDTS Jurgen]]></nome>
+       <nazione>BEL</nazione>
+       <squadra id="LTS"><![CDATA[LOTTO SOUDAL]]></squadra> 
+      </item>
+      <item> 
+       <pos>DNS</pos>
+       <nome numero="143"><![CDATA[EWAN Caleb]]></nome>
+       <nazione>AUS</nazione>
+       <squadra id="OGE"><![CDATA[ORICA GREENEDGE]]></squadra> 
+      </item>
+      <item> 
+       <pos>DNF</pos>
+       <nome numero="5"><![CDATA[GRETSCH Patrick]]></nome>
+       <nazione>GER</nazione>
+       <squadra id="ALM"><![CDATA[AG2R LA MONDIALE]]></squadra> 
+      </item>
+      <item> 
+       <pos>DNF</pos>
+       <nome numero="78"><![CDATA[SARREAU Marc]]></nome>
+       <nazione>FRA</nazione>
+       <squadra id="FDJ"><![CDATA[FDJ]]></squadra> 
+      </item>
+      <item> 
+       <pos>DNF</pos>
+       <nome numero="173"><![CDATA[HOFLAND Moreno]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra> 
+      </item>
+		
+  </classifica>
+</feed>

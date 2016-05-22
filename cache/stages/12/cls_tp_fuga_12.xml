@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="12"><![CDATA[]]></tappa>
+  <localita><![CDATA[Bibione - km 182]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="36"><![CDATA[OSS Daniel]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>154</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="28"><![CDATA[MAESTRI Mirco]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra>
+       <tempo>134</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="67"><![CDATA[TRENTIN Matteo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>5</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

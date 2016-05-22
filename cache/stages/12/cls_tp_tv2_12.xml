@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="12"><![CDATA[Traguardo Volante]]></tappa>
+  <localita><![CDATA[Portogruaro - km 131]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="36"><![CDATA[OSS Daniel]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>10</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="28"><![CDATA[MAESTRI Mirco]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="207"><![CDATA[NIZZOLO Giacomo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="TFS"><![CDATA[TREK - SEGAFREDO]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="67"><![CDATA[TRENTIN Matteo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="71"><![CDATA[DEMARE Arnaud]]></nome>
+       <nazione>FRA</nazione>
+       <squadra id="FDJ"><![CDATA[FDJ]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="113"><![CDATA[DE BIE Sean]]></nome>
+       <nazione>BEL</nazione>
+       <squadra id="LTS"><![CDATA[LOTTO SOUDAL]]></squadra>
+       <tempo>0</tempo> 
+      </item>
+      <item> 
+       <pos>7</pos>
+       <nome numero="73"><![CDATA[DELAGE Mickael]]></nome>
+       <nazione>FRA</nazione>
+       <squadra id="FDJ"><![CDATA[FDJ]]></squadra>
+       <tempo>0</tempo> 
+      </item>
+      <item> 
+       <pos>8</pos>
+       <nome numero="76"><![CDATA[KONOVALOVAS Ignatas]]></nome>
+       <nazione>LTU</nazione>
+       <squadra id="FDJ"><![CDATA[FDJ]]></squadra>
+       <tempo>0</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

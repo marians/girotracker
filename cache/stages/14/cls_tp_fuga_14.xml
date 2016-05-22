@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="14"><![CDATA[]]></tappa>
+  <localita><![CDATA[Corvara - km 210]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="147"><![CDATA[PLAZA MOLINA Ruben]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="OGE"><![CDATA[ORICA GREENEDGE]]></squadra>
+       <tempo>49</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="32"><![CDATA[ATAPUMA Darwin]]></nome>
+       <nazione>COL</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>45</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="56"><![CDATA[SIUTSOU Kanstantsin]]></nome>
+       <nazione>BLR</nazione>
+       <squadra id="DDD"><![CDATA[TEAM DIMENSION DATA]]></squadra>
+       <tempo>17</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="187"><![CDATA[LOPEZ GARCIA David]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="SKY"><![CDATA[TEAM SKY]]></squadra>
+       <tempo>10</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="157"><![CDATA[PREIDLER Georg]]></nome>
+       <nazione>AUT</nazione>
+       <squadra id="TGA"><![CDATA[TEAM GIANT - ALPECIN]]></squadra>
+       <tempo>5</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

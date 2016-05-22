@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="14"><![CDATA[Elenco ritirati]]></tappa>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>DNF</pos>
+       <nome numero="71"><![CDATA[DEMARE Arnaud]]></nome>
+       <nazione>FRA</nazione>
+       <squadra id="FDJ"><![CDATA[FDJ]]></squadra> 
+      </item>
+      <item> 
+       <pos>DNF</pos>
+       <nome numero="92"><![CDATA[BRANDLE Matthias]]></nome>
+       <nazione>AUT</nazione>
+       <squadra id="IAM"><![CDATA[IAM CYCLING]]></squadra> 
+      </item>
+      <item> 
+       <pos>DNF</pos>
+       <nome numero="107"><![CDATA[NIEMIEC Przemyslaw]]></nome>
+       <nazione>POL</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra> 
+      </item>
+      <item> 
+       <pos>DNF</pos>
+       <nome numero="153"><![CDATA[DE BACKER Bert]]></nome>
+       <nazione>BEL</nazione>
+       <squadra id="TGA"><![CDATA[TEAM GIANT - ALPECIN]]></squadra> 
+      </item>
+      <item> 
+       <pos>DNF</pos>
+       <nome numero="201"><![CDATA[HESJEDAL Ryder]]></nome>
+       <nazione>CAN</nazione>
+       <squadra id="TFS"><![CDATA[TREK - SEGAFREDO]]></squadra> 
+      </item>
+      <item> 
+       <pos>DNF</pos>
+       <nome numero="132"><![CDATA[BERLATO Giacomo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="NIP"><![CDATA[NIPPO - VINI FANTINI]]></squadra> 
+      </item>
+      <item> 
+       <pos>DNF</pos>
+       <nome numero="214"><![CDATA[BERTAZZO Liam]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="WIL"><![CDATA[WILIER TRIESTINA - SOUTHEAST]]></squadra> 
+      </item>
+		
+  </classifica>
+</feed>

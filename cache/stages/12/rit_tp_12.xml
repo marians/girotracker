@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="12"><![CDATA[Elenco ritirati]]></tappa>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>DNS</pos>
+       <nome numero="12"><![CDATA[AGNOLI Valerio]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="AST"><![CDATA[ASTANA PRO TEAM]]></squadra> 
+      </item>
+		
+  </classifica>
+</feed>

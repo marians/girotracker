@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="13"><![CDATA[Combattivit&#224;]]></tappa>
+  <localita><![CDATA[Cividale del Friuli - km 170]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="185"><![CDATA[NIEVE Mikel]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="SKY"><![CDATA[TEAM SKY]]></squadra>
+       <tempo>13</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="129"><![CDATA[VISCONTI Giovanni]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="MOV"><![CDATA[MOVISTAR TEAM]]></squadra>
+       <tempo>13</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="96"><![CDATA[DENIFL Stefan]]></nome>
+       <nazione>AUT</nazione>
+       <squadra id="IAM"><![CDATA[IAM CYCLING]]></squadra>
+       <tempo>8</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="131"><![CDATA[CUNEGO Damiano]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="NIP"><![CDATA[NIPPO - VINI FANTINI]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="172"><![CDATA[BATTAGLIN Enrico]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra>
+       <tempo>5</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="71"><![CDATA[DEMARE Arnaud]]></nome>
+       <nazione>FRA</nazione>
+       <squadra id="FDJ"><![CDATA[FDJ]]></squadra>
+       <tempo>5</tempo> 
+      </item>
+      <item> 
+       <pos>7</pos>
+       <nome numero="11"><![CDATA[NIBALI Vincenzo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="AST"><![CDATA[ASTANA PRO TEAM]]></squadra>
+       <tempo>4</tempo> 
+      </item>
+      <item> 
+       <pos>8</pos>
+       <nome numero="100"><![CDATA[ULISSI Diego]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>4</tempo> 
+      </item>
+      <item> 
+       <pos>9</pos>
+       <nome numero="116"><![CDATA[LIGTHART Pim]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="LTS"><![CDATA[LOTTO SOUDAL]]></squadra>
+       <tempo>4</tempo> 
+      </item>
+      <item> 
+       <pos>10</pos>
+       <nome numero="121"><![CDATA[VALVERDE Alejandro]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="MOV"><![CDATA[MOVISTAR TEAM]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>11</pos>
+       <nome numero="105"><![CDATA[MOHORIC Matej]]></nome>
+       <nazione>SLO</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>12</pos>
+       <nome numero="178"><![CDATA[TJALLINGII Maarten]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>13</pos>
+       <nome numero="191"><![CDATA[MAJKA Rafal]]></nome>
+       <nazione>POL</nazione>
+       <squadra id="TNK"><![CDATA[TINKOFF]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>14</pos>
+       <nome numero="44"><![CDATA[DOMBROWSKI Joseph Lloyd]]></nome>
+       <nazione>USA</nazione>
+       <squadra id="CPT"><![CDATA[CANNONDALE PRO CYCLING TEAM]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>15</pos>
+       <nome numero="43"><![CDATA[CLARKE Simon]]></nome>
+       <nazione>AUS</nazione>
+       <squadra id="CPT"><![CDATA[CANNONDALE PRO CYCLING TEAM]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>16</pos>
+       <nome numero="104"><![CDATA[MODOLO Sacha]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>17</pos>
+       <nome numero="8"><![CDATA[MONTAGUTI Matteo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="ALM"><![CDATA[AG2R LA MONDIALE]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+      <item> 
+       <pos>18</pos>
+       <nome numero="33"><![CDATA[DE MARCHI Alessandro]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+      <item> 
+       <pos>19</pos>
+       <nome numero="103"><![CDATA[KOSHEVOY Ilia]]></nome>
+       <nazione>BLR</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+      <item> 
+       <pos>20</pos>
+       <nome numero="207"><![CDATA[NIZZOLO Giacomo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="TFS"><![CDATA[TREK - SEGAFREDO]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

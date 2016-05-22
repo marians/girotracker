@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="14"><![CDATA[Combattivit&#224;]]></tappa>
+  <localita><![CDATA[Corvara - km 210]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="32"><![CDATA[ATAPUMA Darwin]]></nome>
+       <nazione>COL</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>14</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="187"><![CDATA[LOPEZ GARCIA David]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="SKY"><![CDATA[TEAM SKY]]></squadra>
+       <tempo>12</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="147"><![CDATA[PLAZA MOLINA Ruben]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="OGE"><![CDATA[ORICA GREENEDGE]]></squadra>
+       <tempo>10</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="157"><![CDATA[PREIDLER Georg]]></nome>
+       <nazione>AUT</nazione>
+       <squadra id="TGA"><![CDATA[TEAM GIANT - ALPECIN]]></squadra>
+       <tempo>8</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="141"><![CDATA[CHAVES Esteban]]></nome>
+       <nazione>COL</nazione>
+       <squadra id="OGE"><![CDATA[ORICA GREENEDGE]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="56"><![CDATA[SIUTSOU Kanstantsin]]></nome>
+       <nazione>BLR</nazione>
+       <squadra id="DDD"><![CDATA[TEAM DIMENSION DATA]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>7</pos>
+       <nome numero="171"><![CDATA[KRUIJSWIJK Steven]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra>
+       <tempo>5</tempo> 
+      </item>
+      <item> 
+       <pos>8</pos>
+       <nome numero="100"><![CDATA[ULISSI Diego]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>5</tempo> 
+      </item>
+      <item> 
+       <pos>9</pos>
+       <nome numero="63"><![CDATA[DE LA CRUZ David]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>4</tempo> 
+      </item>
+      <item> 
+       <pos>10</pos>
+       <nome numero="131"><![CDATA[CUNEGO Damiano]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="NIP"><![CDATA[NIPPO - VINI FANTINI]]></squadra>
+       <tempo>4</tempo> 
+      </item>
+      <item> 
+       <pos>11</pos>
+       <nome numero="67"><![CDATA[TRENTIN Matteo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>4</tempo> 
+      </item>
+      <item> 
+       <pos>12</pos>
+       <nome numero="96"><![CDATA[DENIFL Stefan]]></nome>
+       <nazione>AUT</nazione>
+       <squadra id="IAM"><![CDATA[IAM CYCLING]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>13</pos>
+       <nome numero="116"><![CDATA[LIGTHART Pim]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="LTS"><![CDATA[LOTTO SOUDAL]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>14</pos>
+       <nome numero="11"><![CDATA[NIBALI Vincenzo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="AST"><![CDATA[ASTANA PRO TEAM]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>15</pos>
+       <nome numero="188"><![CDATA[ROCHE Nicholas]]></nome>
+       <nazione>IRL</nazione>
+       <squadra id="SKY"><![CDATA[TEAM SKY]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>16</pos>
+       <nome numero="106"><![CDATA[MORI Manuele]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>17</pos>
+       <nome numero="27"><![CDATA[COLBRELLI Sonny]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

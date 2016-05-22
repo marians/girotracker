@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="13"><![CDATA[Traguardo Volante]]></tappa>
+  <localita><![CDATA[Attimis - km 129]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="172"><![CDATA[BATTAGLIN Enrico]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra>
+       <tempo>10</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="100"><![CDATA[ULISSI Diego]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="105"><![CDATA[MOHORIC Matej]]></nome>
+       <nazione>SLO</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="43"><![CDATA[CLARKE Simon]]></nome>
+       <nazione>AUS</nazione>
+       <squadra id="CPT"><![CDATA[CANNONDALE PRO CYCLING TEAM]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="103"><![CDATA[KOSHEVOY Ilia]]></nome>
+       <nazione>BLR</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

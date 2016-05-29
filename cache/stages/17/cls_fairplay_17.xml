@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed>
-  <tappa numero="15"><![CDATA[]]></tappa>
-  <localita><![CDATA[Alpe di Siusi - km 10]]></localita>
+  <tappa numero="17"><![CDATA[]]></tappa>
+  <localita><![CDATA[Cassano d'Adda - km 196]]></localita>
   <virtuale>0</virtuale>
   <classifica>
       <item> 
@@ -13,16 +13,16 @@
       </item>
       <item> 
        <pos>2</pos>
-       <nome numero="10"><![CDATA[ASTANA PRO TEAM ]]></nome>
+       <nome numero="120"><![CDATA[MOVISTAR TEAM ]]></nome>
        <nazione></nazione>
-       <squadra id="AST"><![CDATA[ASTANA PRO TEAM]]></squadra>
+       <squadra id="MOV"><![CDATA[MOVISTAR TEAM]]></squadra>
        <tempo>0</tempo> 
       </item>
       <item> 
        <pos>3</pos>
-       <nome numero="120"><![CDATA[MOVISTAR TEAM ]]></nome>
+       <nome numero="10"><![CDATA[ASTANA PRO TEAM ]]></nome>
        <nazione></nazione>
-       <squadra id="MOV"><![CDATA[MOVISTAR TEAM]]></squadra>
+       <squadra id="AST"><![CDATA[ASTANA PRO TEAM]]></squadra>
        <tempo>0</tempo> 
       </item>
       <item> 
@@ -107,7 +107,7 @@
        <nome numero="70"><![CDATA[FDJ ]]></nome>
        <nazione></nazione>
        <squadra id="FDJ"><![CDATA[FDJ]]></squadra>
-       <tempo>20</tempo> 
+       <tempo>30</tempo> 
       </item>
       <item> 
        <pos>16</pos>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="16"><![CDATA[Elenco ritirati]]></tappa>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>DNS</pos>
+       <nome numero="63"><![CDATA[DE LA CRUZ David]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra> 
+      </item>
+		
+  </classifica>
+</feed>

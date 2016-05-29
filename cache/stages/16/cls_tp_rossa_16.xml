@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="16"><![CDATA[Maglia Rossa]]></tappa>
+  <localita><![CDATA[Andalo - km 132]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="121"><![CDATA[VALVERDE Alejandro]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="MOV"><![CDATA[MOVISTAR TEAM]]></squadra>
+       <tempo>31</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="171"><![CDATA[KRUIJSWIJK Steven]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra>
+       <tempo>18</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="100"><![CDATA[ULISSI Diego]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>18</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="161"><![CDATA[ZAKARIN Ilnur]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="KAT"><![CDATA[TEAM KATUSHA]]></squadra>
+       <tempo>12</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="205"><![CDATA[COLEDAN Marco]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="TFS"><![CDATA[TREK - SEGAFREDO]]></squadra>
+       <tempo>10</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="64"><![CDATA[JUNGELS Bob]]></nome>
+       <nazione>LUX</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>7</tempo> 
+      </item>
+      <item> 
+       <pos>7</pos>
+       <nome numero="67"><![CDATA[TRENTIN Matteo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>8</pos>
+       <nome numero="187"><![CDATA[LOPEZ GARCIA David]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="SKY"><![CDATA[TEAM SKY]]></squadra>
+       <tempo>5</tempo> 
+      </item>
+      <item> 
+       <pos>9</pos>
+       <nome numero="84"><![CDATA[FIRSANOV Sergey]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="GAZ"><![CDATA[GAZPROM - RUSVELO]]></squadra>
+       <tempo>4</tempo> 
+      </item>
+      <item> 
+       <pos>10</pos>
+       <nome numero="141"><![CDATA[CHAVES Esteban]]></nome>
+       <nazione>COL</nazione>
+       <squadra id="OGE"><![CDATA[ORICA GREENEDGE]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>11</pos>
+       <nome numero="11"><![CDATA[NIBALI Vincenzo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="AST"><![CDATA[ASTANA PRO TEAM]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>12</pos>
+       <nome numero="36"><![CDATA[OSS Daniel]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>13</pos>
+       <nome numero="191"><![CDATA[MAJKA Rafal]]></nome>
+       <nazione>POL</nazione>
+       <squadra id="TNK"><![CDATA[TINKOFF]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>14</pos>
+       <nome numero="15"><![CDATA[KANGERT Tanel]]></nome>
+       <nazione>EST</nazione>
+       <squadra id="AST"><![CDATA[ASTANA PRO TEAM]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>15</pos>
+       <nome numero="116"><![CDATA[LIGTHART Pim]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="LTS"><![CDATA[LOTTO SOUDAL]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>16</pos>
+       <nome numero="1"><![CDATA[POZZOVIVO Domenico]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="ALM"><![CDATA[AG2R LA MONDIALE]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+      <item> 
+       <pos>17</pos>
+       <nome numero="43"><![CDATA[CLARKE Simon]]></nome>
+       <nazione>AUS</nazione>
+       <squadra id="CPT"><![CDATA[CANNONDALE PRO CYCLING TEAM]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

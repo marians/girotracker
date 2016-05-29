@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="20"><![CDATA[Traguardo Volante]]></tappa>
+  <localita><![CDATA[Isola - km 103]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="129"><![CDATA[VISCONTI Giovanni]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="MOV"><![CDATA[MOVISTAR TEAM]]></squadra>
+       <tempo>10</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="15"><![CDATA[KANGERT Tanel]]></nome>
+       <nazione>EST</nazione>
+       <squadra id="AST"><![CDATA[ASTANA PRO TEAM]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="44"><![CDATA[DOMBROWSKI Joseph Lloyd]]></nome>
+       <nazione>USA</nazione>
+       <squadra id="CPT"><![CDATA[CANNONDALE PRO CYCLING TEAM]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="85"><![CDATA[FOLIFOROV Alexander]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="GAZ"><![CDATA[GAZPROM - RUSVELO]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="168"><![CDATA[TAARAMAE Rein]]></nome>
+       <nazione>EST</nazione>
+       <squadra id="KAT"><![CDATA[TEAM KATUSHA]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

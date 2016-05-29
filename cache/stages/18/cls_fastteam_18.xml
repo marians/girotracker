@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="18"><![CDATA[]]></tappa>
+  <localita><![CDATA[Pinerolo - km 240]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="10"><![CDATA[ASTANA PRO TEAM ]]></nome>
+       <nazione></nazione>
+       <squadra id="AST"><![CDATA[ASTANA PRO TEAM]]></squadra>
+       <tempo>221:53:12</tempo>
+       <abbuono></abbuono>
+       <distacco>0:00</distacco> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="40"><![CDATA[CANNONDALE PRO CYCLING TEAM ]]></nome>
+       <nazione></nazione>
+       <squadra id="CPT"><![CDATA[CANNONDALE PRO CYCLING TEAM]]></squadra>
+       <tempo>222:05:54</tempo>
+       <abbuono></abbuono>
+       <distacco>12:42</distacco> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="120"><![CDATA[MOVISTAR TEAM ]]></nome>
+       <nazione></nazione>
+       <squadra id="MOV"><![CDATA[MOVISTAR TEAM]]></squadra>
+       <tempo>222:10:11</tempo>
+       <abbuono></abbuono>
+       <distacco>16:59</distacco> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="500"><![CDATA[AG2R LA MONDIALE ]]></nome>
+       <nazione></nazione>
+       <squadra id="ALM"><![CDATA[AG2R LA MONDIALE]]></squadra>
+       <tempo>222:13:31</tempo>
+       <abbuono></abbuono>
+       <distacco>20:19</distacco> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="180"><![CDATA[TEAM SKY ]]></nome>
+       <nazione></nazione>
+       <squadra id="SKY"><![CDATA[TEAM SKY]]></squadra>
+       <tempo>222:32:11</tempo>
+       <abbuono></abbuono>
+       <distacco>38:59</distacco> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="60"><![CDATA[ETIXX - QUICK-STEP ]]></nome>
+       <nazione></nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>222:41:27</tempo>
+       <abbuono></abbuono>
+       <distacco>48:15</distacco> 
+      </item>
+      <item> 
+       <pos>7</pos>
+       <nome numero="190"><![CDATA[TINKOFF ]]></nome>
+       <nazione></nazione>
+       <squadra id="TNK"><![CDATA[TINKOFF]]></squadra>
+       <tempo>222:43:52</tempo>
+       <abbuono></abbuono>
+       <distacco>50:40</distacco> 
+      </item>
+      <item> 
+       <pos>8</pos>
+       <nome numero="160"><![CDATA[TEAM KATUSHA ]]></nome>
+       <nazione></nazione>
+       <squadra id="KAT"><![CDATA[TEAM KATUSHA]]></squadra>
+       <tempo>223:15:02</tempo>
+       <abbuono></abbuono>
+       <distacco>1:21:50</distacco> 
+      </item>
+      <item> 
+       <pos>9</pos>
+       <nome numero="50"><![CDATA[TEAM DIMENSION DATA ]]></nome>
+       <nazione></nazione>
+       <squadra id="DDD"><![CDATA[TEAM DIMENSION DATA]]></squadra>
+       <tempo>223:58:13</tempo>
+       <abbuono></abbuono>
+       <distacco>2:05:01</distacco> 
+      </item>
+      <item> 
+       <pos>10</pos>
+       <nome numero="170"><![CDATA[TEAM LOTTO NL - JUMBO ]]></nome>
+       <nazione></nazione>
+       <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra>
+       <tempo>224:0:48</tempo>
+       <abbuono></abbuono>
+       <distacco>2:07:36</distacco> 
+      </item>
+      <item> 
+       <pos>11</pos>
+       <nome numero="600"><![CDATA[LAMPRE - MERIDA ]]></nome>
+       <nazione></nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>224:16:56</tempo>
+       <abbuono></abbuono>
+       <distacco>2:23:44</distacco> 
+      </item>
+      <item> 
+       <pos>12</pos>
+       <nome numero="30"><![CDATA[BMC RACING TEAM ]]></nome>
+       <nazione></nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>224:26:26</tempo>
+       <abbuono></abbuono>
+       <distacco>2:33:14</distacco> 
+      </item>
+      <item> 
+       <pos>13</pos>
+       <nome numero="140"><![CDATA[ORICA GREENEDGE ]]></nome>
+       <nazione></nazione>
+       <squadra id="OGE"><![CDATA[ORICA GREENEDGE]]></squadra>
+       <tempo>224:39:02</tempo>
+       <abbuono></abbuono>
+       <distacco>2:45:50</distacco> 
+      </item>
+      <item> 
+       <pos>14</pos>
+       <nome numero="150"><![CDATA[TEAM GIANT - ALPECIN ]]></nome>
+       <nazione></nazione>
+       <squadra id="TGA"><![CDATA[TEAM GIANT - ALPECIN]]></squadra>
+       <tempo>225:11:21</tempo>
+       <abbuono></abbuono>
+       <distacco>3:18:09</distacco> 
+      </item>
+      <item> 
+       <pos>15</pos>
+       <nome numero="200"><![CDATA[TREK - SEGAFREDO ]]></nome>
+       <nazione></nazione>
+       <squadra id="TFS"><![CDATA[TREK - SEGAFREDO]]></squadra>
+       <tempo>225:33:26</tempo>
+       <abbuono></abbuono>
+       <distacco>3:40:14</distacco> 
+      </item>
+      <item> 
+       <pos>16</pos>
+       <nome numero="20"><![CDATA[BARDIANI CSF ]]></nome>
+       <nazione></nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra>
+       <tempo>225:38:34</tempo>
+       <abbuono></abbuono>
+       <distacco>3:45:22</distacco> 
+      </item>
+      <item> 
+       <pos>17</pos>
+       <nome numero="110"><![CDATA[LOTTO SOUDAL ]]></nome>
+       <nazione></nazione>
+       <squadra id="LTS"><![CDATA[LOTTO SOUDAL]]></squadra>
+       <tempo>225:50:10</tempo>
+       <abbuono></abbuono>
+       <distacco>3:56:58</distacco> 
+      </item>
+      <item> 
+       <pos>18</pos>
+       <nome numero="80"><![CDATA[GAZPROM - RUSVELO ]]></nome>
+       <nazione></nazione>
+       <squadra id="GAZ"><![CDATA[GAZPROM - RUSVELO]]></squadra>
+       <tempo>225:58:28</tempo>
+       <abbuono></abbuono>
+       <distacco>4:05:16</distacco> 
+      </item>
+      <item> 
+       <pos>19</pos>
+       <nome numero="210"><![CDATA[WILIER TRIESTINA - SOUTHEAST ]]></nome>
+       <nazione></nazione>
+       <squadra id="WIL"><![CDATA[WILIER TRIESTINA - SOUTHEAST]]></squadra>
+       <tempo>226:51:03</tempo>
+       <abbuono></abbuono>
+       <distacco>4:57:51</distacco> 
+      </item>
+      <item> 
+       <pos>20</pos>
+       <nome numero="90"><![CDATA[IAM CYCLING ]]></nome>
+       <nazione></nazione>
+       <squadra id="IAM"><![CDATA[IAM CYCLING]]></squadra>
+       <tempo>226:54:45</tempo>
+       <abbuono></abbuono>
+       <distacco>5:01:33</distacco> 
+      </item>
+      <item> 
+       <pos>21</pos>
+       <nome numero="130"><![CDATA[NIPPO - VINI FANTINI ]]></nome>
+       <nazione></nazione>
+       <squadra id="NIP"><![CDATA[NIPPO - VINI FANTINI]]></squadra>
+       <tempo>227:27:32</tempo>
+       <abbuono></abbuono>
+       <distacco>5:34:20</distacco> 
+      </item>
+      <item> 
+       <pos>22</pos>
+       <nome numero="70"><![CDATA[FDJ ]]></nome>
+       <nazione></nazione>
+       <squadra id="FDJ"><![CDATA[FDJ]]></squadra>
+       <tempo>230:21:11</tempo>
+       <abbuono></abbuono>
+       <distacco>8:27:59</distacco> 
+      </item>
+		
+  </classifica>
+</feed>

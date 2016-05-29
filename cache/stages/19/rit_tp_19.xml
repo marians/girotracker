@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="19"><![CDATA[Elenco ritirati]]></tappa>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>DNS</pos>
+       <nome numero="26"><![CDATA[CICCONE Giulio]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra> 
+      </item>
+      <item> 
+       <pos>DNF</pos>
+       <nome numero="161"><![CDATA[ZAKARIN Ilnur]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="KAT"><![CDATA[TEAM KATUSHA]]></squadra> 
+      </item>
+      <item> 
+       <pos>DNF</pos>
+       <nome numero="123"><![CDATA[BETANCUR Carlos A.]]></nome>
+       <nazione>COL</nazione>
+       <squadra id="MOV"><![CDATA[MOVISTAR TEAM]]></squadra> 
+      </item>
+      <item> 
+       <pos>DNF</pos>
+       <nome numero="183"><![CDATA[DEIGNAN Philip]]></nome>
+       <nazione>IRL</nazione>
+       <squadra id="SKY"><![CDATA[TEAM SKY]]></squadra> 
+      </item>
+		
+  </classifica>
+</feed>

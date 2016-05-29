@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="18"><![CDATA[Maglia Azzurra]]></tappa>   
+  <localita><![CDATA[Pramartino - km 220]]></localita>
+  <virtuale>0</virtuale>
+<classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="62"><![CDATA[BRAMBILLA Gianluca]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>15</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="46"><![CDATA[MOSER Moreno]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="CPT"><![CDATA[CANNONDALE PRO CYCLING TEAM]]></squadra>
+       <tempo>8</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="152"><![CDATA[ARNDT Nikias]]></nome>
+       <nazione>GER</nazione>
+       <squadra id="TGA"><![CDATA[TEAM GIANT - ALPECIN]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="197"><![CDATA[ROVNY Ivan]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="TNK"><![CDATA[TINKOFF]]></squadra>
+       <tempo>4</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="67"><![CDATA[TRENTIN Matteo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="3"><![CDATA[DOMONT Axel]]></nome>
+       <nazione>FRA</nazione>
+       <squadra id="ALM"><![CDATA[AG2R LA MONDIALE]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

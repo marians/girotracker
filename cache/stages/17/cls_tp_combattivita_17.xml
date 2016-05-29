@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="17"><![CDATA[Combattivit&#224;]]></tappa>
+  <localita><![CDATA[Cassano d'Adda - km 196]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="36"><![CDATA[OSS Daniel]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>14</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="219"><![CDATA[ZHUPA Eugert]]></nome>
+       <nazione>ALB</nazione>
+       <squadra id="WIL"><![CDATA[WILIER TRIESTINA - SOUTHEAST]]></squadra>
+       <tempo>11</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="207"><![CDATA[NIZZOLO Giacomo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="TFS"><![CDATA[TREK - SEGAFREDO]]></squadra>
+       <tempo>9</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="193"><![CDATA[BRUTT Pavel]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="TNK"><![CDATA[TINKOFF]]></squadra>
+       <tempo>8</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="94"><![CDATA[KLUGE Roger]]></nome>
+       <nazione>GER</nazione>
+       <squadra id="IAM"><![CDATA[IAM CYCLING]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="152"><![CDATA[ARNDT Nikias]]></nome>
+       <nazione>GER</nazione>
+       <squadra id="TGA"><![CDATA[TEAM GIANT - ALPECIN]]></squadra>
+       <tempo>4</tempo> 
+      </item>
+      <item> 
+       <pos>7</pos>
+       <nome numero="104"><![CDATA[MODOLO Sacha]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>8</pos>
+       <nome numero="67"><![CDATA[TRENTIN Matteo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>9</pos>
+       <nome numero="166"><![CDATA[PORSEV Alexander]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="KAT"><![CDATA[TEAM KATUSHA]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+      <item> 
+       <pos>10</pos>
+       <nome numero="100"><![CDATA[ULISSI Diego]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

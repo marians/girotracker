@@ -438,15 +438,6 @@
       </item>
       <item> 
        <pos>49</pos>
-       <nome numero="62"><![CDATA[BRAMBILLA Gianluca]]></nome>
-       <nazione>ITA</nazione>
-       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
-       <tempo>31:56</tempo>
-       <abbuono></abbuono>
-       <distacco>03:17</distacco> 
-      </item>
-      <item> 
-       <pos>50</pos>
        <nome numero="41"><![CDATA[URAN URAN Rigoberto]]></nome>
        <nazione>COL</nazione>
        <squadra id="CPT"><![CDATA[CANNONDALE PRO CYCLING TEAM]]></squadra>
@@ -455,7 +446,7 @@
        <distacco>03:18</distacco> 
       </item>
       <item> 
-       <pos>51</pos>
+       <pos>50</pos>
        <nome numero="45"><![CDATA[FORMOLO Davide]]></nome>
        <nazione>ITA</nazione>
        <squadra id="CPT"><![CDATA[CANNONDALE PRO CYCLING TEAM]]></squadra>
@@ -464,7 +455,7 @@
        <distacco>03:18</distacco> 
       </item>
       <item> 
-       <pos>51</pos>
+       <pos>50</pos>
        <nome numero="8"><![CDATA[MONTAGUTI Matteo]]></nome>
        <nazione>ITA</nazione>
        <squadra id="ALM"><![CDATA[AG2R LA MONDIALE]]></squadra>
@@ -473,7 +464,7 @@
        <distacco>03:18</distacco> 
       </item>
       <item> 
-       <pos>53</pos>
+       <pos>52</pos>
        <nome numero="32"><![CDATA[ATAPUMA Darwin]]></nome>
        <nazione>COL</nazione>
        <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
@@ -482,7 +473,7 @@
        <distacco>03:18</distacco> 
       </item>
       <item> 
-       <pos>54</pos>
+       <pos>53</pos>
        <nome numero="196"><![CDATA[POLJANSKI Pawel]]></nome>
        <nazione>POL</nazione>
        <squadra id="TNK"><![CDATA[TINKOFF]]></squadra>
@@ -491,13 +482,22 @@
        <distacco>03:20</distacco> 
       </item>
       <item> 
-       <pos>55</pos>
+       <pos>54</pos>
        <nome numero="157"><![CDATA[PREIDLER Georg]]></nome>
        <nazione>AUT</nazione>
        <squadra id="TGA"><![CDATA[TEAM GIANT - ALPECIN]]></squadra>
        <tempo>32:03</tempo>
        <abbuono></abbuono>
        <distacco>03:24</distacco> 
+      </item>
+      <item> 
+       <pos>55</pos>
+       <nome numero="62"><![CDATA[BRAMBILLA Gianluca]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>32:04</tempo>
+       <abbuono></abbuono>
+       <distacco>03:25</distacco> 
       </item>
       <item> 
        <pos>56</pos>
@@ -1479,15 +1479,6 @@
        <tempo>35:56</tempo>
        <abbuono></abbuono>
        <distacco>07:17</distacco> 
-      </item>
-      <item> 
-       <pos>165</pos>
-       <nome numero="83"><![CDATA[ERSHOV Artur]]></nome>
-       <nazione>RUS</nazione>
-       <squadra id="GAZ"><![CDATA[GAZPROM - RUSVELO]]></squadra>
-       <tempo>38:53</tempo>
-       <abbuono></abbuono>
-       <distacco>10:14</distacco> 
       </item>
 		
   </classifica>

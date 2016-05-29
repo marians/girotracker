@@ -9,28 +9,28 @@
        <nome numero="85"><![CDATA[FOLIFOROV Alexander]]></nome>
        <nazione>RUS</nazione>
        <squadra id="GAZ"><![CDATA[GAZPROM - RUSVELO]]></squadra>
-       <tempo>6</tempo> 
+       <tempo>10</tempo> 
       </item>
       <item> 
        <pos>2</pos>
        <nome numero="171"><![CDATA[KRUIJSWIJK Steven]]></nome>
        <nazione>NED</nazione>
        <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra>
-       <tempo>5</tempo> 
+       <tempo>8</tempo> 
       </item>
       <item> 
        <pos>3</pos>
        <nome numero="121"><![CDATA[VALVERDE Alejandro]]></nome>
        <nazione>ESP</nazione>
        <squadra id="MOV"><![CDATA[MOVISTAR TEAM]]></squadra>
-       <tempo>4</tempo> 
+       <tempo>6</tempo> 
       </item>
       <item> 
        <pos>4</pos>
        <nome numero="84"><![CDATA[FIRSANOV Sergey]]></nome>
        <nazione>RUS</nazione>
        <squadra id="GAZ"><![CDATA[GAZPROM - RUSVELO]]></squadra>
-       <tempo>3</tempo> 
+       <tempo>4</tempo> 
       </item>
       <item> 
        <pos>5</pos>

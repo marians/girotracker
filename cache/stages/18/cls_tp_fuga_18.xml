@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="18"><![CDATA[]]></tappa>
+  <localita><![CDATA[Pinerolo - km 240]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="46"><![CDATA[MOSER Moreno]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="CPT"><![CDATA[CANNONDALE PRO CYCLING TEAM]]></squadra>
+       <tempo>25</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="62"><![CDATA[BRAMBILLA Gianluca]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>25</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="193"><![CDATA[BRUTT Pavel]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="TNK"><![CDATA[TINKOFF]]></squadra>
+       <tempo>15</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

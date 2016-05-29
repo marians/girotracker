@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="17"><![CDATA[]]></tappa>
+  <localita><![CDATA[Cassano d'Adda - km 196]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="64"><![CDATA[JUNGELS Bob]]></nome>
+       <nazione>LUX</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>68:19:36</tempo>
+       <abbuono></abbuono>
+       <distacco>0:00</distacco> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="184"><![CDATA[HENAO Sebastian]]></nome>
+       <nazione>COL</nazione>
+       <squadra id="SKY"><![CDATA[TEAM SKY]]></squadra>
+       <tempo>68:33:53</tempo>
+       <abbuono></abbuono>
+       <distacco>14:17</distacco> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="45"><![CDATA[FORMOLO Davide]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="CPT"><![CDATA[CANNONDALE PRO CYCLING TEAM]]></squadra>
+       <tempo>68:54:14</tempo>
+       <abbuono></abbuono>
+       <distacco>34:38</distacco> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="101"><![CDATA[CONTI Valerio]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>69:13:16</tempo>
+       <abbuono></abbuono>
+       <distacco>53:40</distacco> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="44"><![CDATA[DOMBROWSKI Joseph Lloyd]]></nome>
+       <nazione>USA</nazione>
+       <squadra id="CPT"><![CDATA[CANNONDALE PRO CYCLING TEAM]]></squadra>
+       <tempo>69:23:33</tempo>
+       <abbuono></abbuono>
+       <distacco>1:03:57</distacco> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="68"><![CDATA[VERONA Carlos]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>69:30:37</tempo>
+       <abbuono></abbuono>
+       <distacco>1:11:01</distacco> 
+      </item>
+      <item> 
+       <pos>7</pos>
+       <nome numero="54"><![CDATA[KUDUS GHEBREMEDHIN Merhawi]]></nome>
+       <nazione>ERI</nazione>
+       <squadra id="DDD"><![CDATA[TEAM DIMENSION DATA]]></squadra>
+       <tempo>69:39:40</tempo>
+       <abbuono></abbuono>
+       <distacco>1:20:04</distacco> 
+      </item>
+      <item> 
+       <pos>8</pos>
+       <nome numero="145"><![CDATA[HOWSON Damien]]></nome>
+       <nazione>AUS</nazione>
+       <squadra id="OGE"><![CDATA[ORICA GREENEDGE]]></squadra>
+       <tempo>69:49:58</tempo>
+       <abbuono></abbuono>
+       <distacco>1:30:22</distacco> 
+      </item>
+      <item> 
+       <pos>9</pos>
+       <nome numero="49"><![CDATA[BROWN Nathan]]></nome>
+       <nazione>USA</nazione>
+       <squadra id="CPT"><![CDATA[CANNONDALE PRO CYCLING TEAM]]></squadra>
+       <tempo>69:56:08</tempo>
+       <abbuono></abbuono>
+       <distacco>1:36:32</distacco> 
+      </item>
+      <item> 
+       <pos>10</pos>
+       <nome numero="156"><![CDATA[LUDVIGSSON Tobias]]></nome>
+       <nazione>SWE</nazione>
+       <squadra id="TGA"><![CDATA[TEAM GIANT - ALPECIN]]></squadra>
+       <tempo>70:01:39</tempo>
+       <abbuono></abbuono>
+       <distacco>1:42:03</distacco> 
+      </item>
+      <item> 
+       <pos>11</pos>
+       <nome numero="85"><![CDATA[FOLIFOROV Alexander]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="GAZ"><![CDATA[GAZPROM - RUSVELO]]></squadra>
+       <tempo>70:05:49</tempo>
+       <abbuono></abbuono>
+       <distacco>1:46:13</distacco> 
+      </item>
+      <item> 
+       <pos>12</pos>
+       <nome numero="26"><![CDATA[CICCONE Giulio]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra>
+       <tempo>70:07:20</tempo>
+       <abbuono></abbuono>
+       <distacco>1:47:44</distacco> 
+      </item>
+      <item> 
+       <pos>13</pos>
+       <nome numero="35"><![CDATA[KUNG Stefan]]></nome>
+       <nazione>SUI</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>70:12:27</tempo>
+       <abbuono></abbuono>
+       <distacco>1:52:51</distacco> 
+      </item>
+      <item> 
+       <pos>14</pos>
+       <nome numero="31"><![CDATA[SENNI Manuel]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>70:14:03</tempo>
+       <abbuono></abbuono>
+       <distacco>1:54:27</distacco> 
+      </item>
+      <item> 
+       <pos>15</pos>
+       <nome numero="109"><![CDATA[PETILLI Simone]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>70:25:54</tempo>
+       <abbuono></abbuono>
+       <distacco>2:06:18</distacco> 
+      </item>
+      <item> 
+       <pos>16</pos>
+       <nome numero="16"><![CDATA[KOZHATAYEV Bakhtiyar]]></nome>
+       <nazione>KAZ</nazione>
+       <squadra id="AST"><![CDATA[ASTANA PRO TEAM]]></squadra>
+       <tempo>70:31:33</tempo>
+       <abbuono></abbuono>
+       <distacco>2:11:57</distacco> 
+      </item>
+      <item> 
+       <pos>17</pos>
+       <nome numero="48"><![CDATA[BETTIOL Alberto]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="CPT"><![CDATA[CANNONDALE PRO CYCLING TEAM]]></squadra>
+       <tempo>70:36:19</tempo>
+       <abbuono></abbuono>
+       <distacco>2:16:43</distacco> 
+      </item>
+      <item> 
+       <pos>18</pos>
+       <nome numero="111"><![CDATA[WELLENS Tim]]></nome>
+       <nazione>BEL</nazione>
+       <squadra id="LTS"><![CDATA[LOTTO SOUDAL]]></squadra>
+       <tempo>70:36:29</tempo>
+       <abbuono></abbuono>
+       <distacco>2:16:53</distacco> 
+      </item>
+      <item> 
+       <pos>19</pos>
+       <nome numero="58"><![CDATA[VAN ZYL Johann]]></nome>
+       <nazione>RSA</nazione>
+       <squadra id="DDD"><![CDATA[TEAM DIMENSION DATA]]></squadra>
+       <tempo>70:37:05</tempo>
+       <abbuono></abbuono>
+       <distacco>2:17:29</distacco> 
+      </item>
+      <item> 
+       <pos>20</pos>
+       <nome numero="216"><![CDATA[RODRIGUEZ Cristian]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="WIL"><![CDATA[WILIER TRIESTINA - SOUTHEAST]]></squadra>
+       <tempo>70:44:36</tempo>
+       <abbuono></abbuono>
+       <distacco>2:25:00</distacco> 
+      </item>
+      <item> 
+       <pos>21</pos>
+       <nome numero="87"><![CDATA[SAVITSKIY Ivan]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="GAZ"><![CDATA[GAZPROM - RUSVELO]]></squadra>
+       <tempo>70:45:29</tempo>
+       <abbuono></abbuono>
+       <distacco>2:25:53</distacco> 
+      </item>
+      <item> 
+       <pos>22</pos>
+       <nome numero="152"><![CDATA[ARNDT Nikias]]></nome>
+       <nazione>GER</nazione>
+       <squadra id="TGA"><![CDATA[TEAM GIANT - ALPECIN]]></squadra>
+       <tempo>70:48:49</tempo>
+       <abbuono></abbuono>
+       <distacco>2:29:13</distacco> 
+      </item>
+      <item> 
+       <pos>23</pos>
+       <nome numero="218"><![CDATA[MARTINEZ Daniel]]></nome>
+       <nazione>COL</nazione>
+       <squadra id="WIL"><![CDATA[WILIER TRIESTINA - SOUTHEAST]]></squadra>
+       <tempo>70:49:28</tempo>
+       <abbuono></abbuono>
+       <distacco>2:29:52</distacco> 
+      </item>
+      <item> 
+       <pos>24</pos>
+       <nome numero="182"><![CDATA[BOSWELL Ian]]></nome>
+       <nazione>USA</nazione>
+       <squadra id="SKY"><![CDATA[TEAM SKY]]></squadra>
+       <tempo>70:49:42</tempo>
+       <abbuono></abbuono>
+       <distacco>2:30:06</distacco> 
+      </item>
+      <item> 
+       <pos>25</pos>
+       <nome numero="113"><![CDATA[DE BIE Sean]]></nome>
+       <nazione>BEL</nazione>
+       <squadra id="LTS"><![CDATA[LOTTO SOUDAL]]></squadra>
+       <tempo>70:50:14</tempo>
+       <abbuono></abbuono>
+       <distacco>2:30:38</distacco> 
+      </item>
+      <item> 
+       <pos>26</pos>
+       <nome numero="105"><![CDATA[MOHORIC Matej]]></nome>
+       <nazione>SLO</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>70:56:23</tempo>
+       <abbuono></abbuono>
+       <distacco>2:36:47</distacco> 
+      </item>
+      <item> 
+       <pos>27</pos>
+       <nome numero="195"><![CDATA[MCCARTHY Jay]]></nome>
+       <nazione>AUS</nazione>
+       <squadra id="TNK"><![CDATA[TINKOFF]]></squadra>
+       <tempo>70:57:21</tempo>
+       <abbuono></abbuono>
+       <distacco>2:37:45</distacco> 
+      </item>
+      <item> 
+       <pos>28</pos>
+       <nome numero="28"><![CDATA[MAESTRI Mirco]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra>
+       <tempo>71:05:31</tempo>
+       <abbuono></abbuono>
+       <distacco>2:45:55</distacco> 
+      </item>
+      <item> 
+       <pos>29</pos>
+       <nome numero="103"><![CDATA[KOSHEVOY Ilia]]></nome>
+       <nazione>BLR</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>71:06:16</tempo>
+       <abbuono></abbuono>
+       <distacco>2:46:40</distacco> 
+      </item>
+      <item> 
+       <pos>30</pos>
+       <nome numero="128"><![CDATA[SUTTERLIN Jasha]]></nome>
+       <nazione>GER</nazione>
+       <squadra id="MOV"><![CDATA[MOVISTAR TEAM]]></squadra>
+       <tempo>71:10:22</tempo>
+       <abbuono></abbuono>
+       <distacco>2:50:46</distacco> 
+      </item>
+      <item> 
+       <pos>31</pos>
+       <nome numero="23"><![CDATA[SIMION Paolo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra>
+       <tempo>71:14:47</tempo>
+       <abbuono></abbuono>
+       <distacco>2:55:11</distacco> 
+      </item>
+      <item> 
+       <pos>32</pos>
+       <nome numero="212"><![CDATA[AMEZQUETA Julen]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="WIL"><![CDATA[WILIER TRIESTINA - SOUTHEAST]]></squadra>
+       <tempo>71:17:37</tempo>
+       <abbuono></abbuono>
+       <distacco>2:58:01</distacco> 
+      </item>
+      <item> 
+       <pos>33</pos>
+       <nome numero="82"><![CDATA[RYBALKIN Aleksey]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="GAZ"><![CDATA[GAZPROM - RUSVELO]]></squadra>
+       <tempo>71:25:37</tempo>
+       <abbuono></abbuono>
+       <distacco>3:06:01</distacco> 
+      </item>
+      <item> 
+       <pos>34</pos>
+       <nome numero="69"><![CDATA[WISNIOWSKI Lukasz]]></nome>
+       <nazione>POL</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>71:26:37</tempo>
+       <abbuono></abbuono>
+       <distacco>3:07:01</distacco> 
+      </item>
+      <item> 
+       <pos>35</pos>
+       <nome numero="39"><![CDATA[ZABEL Rick]]></nome>
+       <nazione>GER</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>71:27:40</tempo>
+       <abbuono></abbuono>
+       <distacco>3:08:04</distacco> 
+      </item>
+      <item> 
+       <pos>36</pos>
+       <nome numero="22"><![CDATA[ANDREETTA Simone]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BAR"><![CDATA[BARDIANI CSF]]></squadra>
+       <tempo>71:27:46</tempo>
+       <abbuono></abbuono>
+       <distacco>3:08:10</distacco> 
+      </item>
+      <item> 
+       <pos>37</pos>
+       <nome numero="144"><![CDATA[HEPBURN Michael]]></nome>
+       <nazione>AUS</nazione>
+       <squadra id="OGE"><![CDATA[ORICA GREENEDGE]]></squadra>
+       <tempo>71:37:59</tempo>
+       <abbuono></abbuono>
+       <distacco>3:18:23</distacco> 
+      </item>
+      <item> 
+       <pos>38</pos>
+       <nome numero="77"><![CDATA[LE GAC Olivier]]></nome>
+       <nazione>FRA</nazione>
+       <squadra id="FDJ"><![CDATA[FDJ]]></squadra>
+       <tempo>71:38:29</tempo>
+       <abbuono></abbuono>
+       <distacco>3:18:53</distacco> 
+      </item>
+      <item> 
+       <pos>39</pos>
+       <nome numero="137"><![CDATA[GROSU Eduard Michael]]></nome>
+       <nazione>ROU</nazione>
+       <squadra id="NIP"><![CDATA[NIPPO - VINI FANTINI]]></squadra>
+       <tempo>71:40:24</tempo>
+       <abbuono></abbuono>
+       <distacco>3:20:48</distacco> 
+      </item>
+      <item> 
+       <pos>40</pos>
+       <nome numero="138"><![CDATA[YAMAMOTO Genki]]></nome>
+       <nazione>JPN</nazione>
+       <squadra id="NIP"><![CDATA[NIPPO - VINI FANTINI]]></squadra>
+       <tempo>71:50:46</tempo>
+       <abbuono></abbuono>
+       <distacco>3:31:10</distacco> 
+      </item>
+      <item> 
+       <pos>41</pos>
+       <nome numero="135"><![CDATA[STACCHIOTTI Riccardo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="NIP"><![CDATA[NIPPO - VINI FANTINI]]></squadra>
+       <tempo>71:56:24</tempo>
+       <abbuono></abbuono>
+       <distacco>3:36:48</distacco> 
+      </item>
+		
+  </classifica>
+</feed>

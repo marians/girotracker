@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="18"><![CDATA[Traguardo Volante]]></tappa>
+  <localita><![CDATA[Rivoli - km 164]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="116"><![CDATA[LIGTHART Pim]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="LTS"><![CDATA[LOTTO SOUDAL]]></squadra>
+       <tempo>10</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="104"><![CDATA[MODOLO Sacha]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="67"><![CDATA[TRENTIN Matteo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="36"><![CDATA[OSS Daniel]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="47"><![CDATA[NAVARDAUSKAS Ramunas]]></nome>
+       <nazione>LTU</nazione>
+       <squadra id="CPT"><![CDATA[CANNONDALE PRO CYCLING TEAM]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

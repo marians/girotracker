@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="17"><![CDATA[]]></tappa>
+  <localita><![CDATA[Cassano d'Adda - km 196]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="193"><![CDATA[BRUTT Pavel]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="TNK"><![CDATA[TINKOFF]]></squadra>
+       <tempo>193</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="219"><![CDATA[ZHUPA Eugert]]></nome>
+       <nazione>ALB</nazione>
+       <squadra id="WIL"><![CDATA[WILIER TRIESTINA - SOUTHEAST]]></squadra>
+       <tempo>193</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="36"><![CDATA[OSS Daniel]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>193</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="112"><![CDATA[BAK Lars Ytting]]></nome>
+       <nazione>DEN</nazione>
+       <squadra id="LTS"><![CDATA[LOTTO SOUDAL]]></squadra>
+       <tempo>22</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="76"><![CDATA[KONOVALOVAS Ignatas]]></nome>
+       <nazione>LTU</nazione>
+       <squadra id="FDJ"><![CDATA[FDJ]]></squadra>
+       <tempo>22</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="162"><![CDATA[BELKOV Maxim]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="KAT"><![CDATA[TEAM KATUSHA]]></squadra>
+       <tempo>22</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

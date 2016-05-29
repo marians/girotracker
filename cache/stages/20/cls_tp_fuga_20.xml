@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="20"><![CDATA[]]></tappa>
+  <localita><![CDATA[Sant'Anna di Vinadio - km 134]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="185"><![CDATA[NIEVE Mikel]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="SKY"><![CDATA[TEAM SKY]]></squadra>
+       <tempo>78</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="32"><![CDATA[ATAPUMA Darwin]]></nome>
+       <nazione>COL</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>50</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="44"><![CDATA[DOMBROWSKI Joseph Lloyd]]></nome>
+       <nazione>USA</nazione>
+       <squadra id="CPT"><![CDATA[CANNONDALE PRO CYCLING TEAM]]></squadra>
+       <tempo>50</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="129"><![CDATA[VISCONTI Giovanni]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="MOV"><![CDATA[MOVISTAR TEAM]]></squadra>
+       <tempo>47</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="15"><![CDATA[KANGERT Tanel]]></nome>
+       <nazione>EST</nazione>
+       <squadra id="AST"><![CDATA[ASTANA PRO TEAM]]></squadra>
+       <tempo>39</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="168"><![CDATA[TAARAMAE Rein]]></nome>
+       <nazione>EST</nazione>
+       <squadra id="KAT"><![CDATA[TEAM KATUSHA]]></squadra>
+       <tempo>38</tempo> 
+      </item>
+      <item> 
+       <pos>7</pos>
+       <nome numero="85"><![CDATA[FOLIFOROV Alexander]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="GAZ"><![CDATA[GAZPROM - RUSVELO]]></squadra>
+       <tempo>34</tempo> 
+      </item>
+      <item> 
+       <pos>8</pos>
+       <nome numero="62"><![CDATA[BRAMBILLA Gianluca]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra>
+       <tempo>21</tempo> 
+      </item>
+      <item> 
+       <pos>9</pos>
+       <nome numero="96"><![CDATA[DENIFL Stefan]]></nome>
+       <nazione>AUT</nazione>
+       <squadra id="IAM"><![CDATA[IAM CYCLING]]></squadra>
+       <tempo>15</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

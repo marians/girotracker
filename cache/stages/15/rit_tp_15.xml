@@ -3,6 +3,24 @@
   <tappa numero="15"><![CDATA[Elenco ritirati]]></tappa>
   <virtuale>0</virtuale>
   <classifica>
+      <item> 
+       <pos>DNS</pos>
+       <nome numero="65"><![CDATA[SABATINI Fabio]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="EQS"><![CDATA[ETIXX - QUICK-STEP]]></squadra> 
+      </item>
+      <item> 
+       <pos>DNS</pos>
+       <nome numero="93"><![CDATA[HOWARD Leigh]]></nome>
+       <nazione>AUS</nazione>
+       <squadra id="IAM"><![CDATA[IAM CYCLING]]></squadra> 
+      </item>
+      <item> 
+       <pos>FTM</pos>
+       <nome numero="83"><![CDATA[ERSHOV Artur]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="GAZ"><![CDATA[GAZPROM - RUSVELO]]></squadra> 
+      </item>
 		
   </classifica>
 </feed>

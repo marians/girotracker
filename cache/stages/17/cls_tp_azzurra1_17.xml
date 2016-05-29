@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="17"><![CDATA[Maglia Azzurra]]></tappa>   
+  <localita><![CDATA[Passo Sant'Eusebio - km 99]]></localita>
+  <virtuale>0</virtuale>
+<classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="36"><![CDATA[OSS Daniel]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="BMC"><![CDATA[BMC RACING TEAM]]></squadra>
+       <tempo>3</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="219"><![CDATA[ZHUPA Eugert]]></nome>
+       <nazione>ALB</nazione>
+       <squadra id="WIL"><![CDATA[WILIER TRIESTINA - SOUTHEAST]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="193"><![CDATA[BRUTT Pavel]]></nome>
+       <nazione>RUS</nazione>
+       <squadra id="TNK"><![CDATA[TINKOFF]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="19"><![CDATA[Maglia Azzurra]]></tappa>   
+  <localita><![CDATA[Risoul - km 162]]></localita>
+  <virtuale>0</virtuale>
+<classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="11"><![CDATA[NIBALI Vincenzo]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="AST"><![CDATA[ASTANA PRO TEAM]]></squadra>
+       <tempo>35</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="185"><![CDATA[NIEVE Mikel]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="SKY"><![CDATA[TEAM SKY]]></squadra>
+       <tempo>18</tempo> 
+      </item>
+      <item> 
+       <pos>3</pos>
+       <nome numero="141"><![CDATA[CHAVES Esteban]]></nome>
+       <nazione>COL</nazione>
+       <squadra id="OGE"><![CDATA[ORICA GREENEDGE]]></squadra>
+       <tempo>12</tempo> 
+      </item>
+      <item> 
+       <pos>4</pos>
+       <nome numero="100"><![CDATA[ULISSI Diego]]></nome>
+       <nazione>ITA</nazione>
+       <squadra id="LAM"><![CDATA[LAMPRE - MERIDA]]></squadra>
+       <tempo>9</tempo> 
+      </item>
+      <item> 
+       <pos>5</pos>
+       <nome numero="191"><![CDATA[MAJKA Rafal]]></nome>
+       <nazione>POL</nazione>
+       <squadra id="TNK"><![CDATA[TINKOFF]]></squadra>
+       <tempo>6</tempo> 
+      </item>
+      <item> 
+       <pos>6</pos>
+       <nome numero="121"><![CDATA[VALVERDE Alejandro]]></nome>
+       <nazione>ESP</nazione>
+       <squadra id="MOV"><![CDATA[MOVISTAR TEAM]]></squadra>
+       <tempo>4</tempo> 
+      </item>
+      <item> 
+       <pos>7</pos>
+       <nome numero="41"><![CDATA[URAN URAN Rigoberto]]></nome>
+       <nazione>COL</nazione>
+       <squadra id="CPT"><![CDATA[CANNONDALE PRO CYCLING TEAM]]></squadra>
+       <tempo>2</tempo> 
+      </item>
+      <item> 
+       <pos>8</pos>
+       <nome numero="157"><![CDATA[PREIDLER Georg]]></nome>
+       <nazione>AUT</nazione>
+       <squadra id="TGA"><![CDATA[TEAM GIANT - ALPECIN]]></squadra>
+       <tempo>1</tempo> 
+      </item>
+		
+  </classifica>
+</feed>

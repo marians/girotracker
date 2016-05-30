@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="21"><![CDATA[Elenco ritirati]]></tappa>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>DNF</pos>
+       <nome numero="112"><![CDATA[BAK Lars Ytting]]></nome>
+       <nazione>DEN</nazione>
+       <squadra id="LTS"><![CDATA[LOTTO SOUDAL]]></squadra> 
+      </item>
+		
+  </classifica>
+</feed>

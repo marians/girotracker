@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <tappa numero="21"><![CDATA[]]></tappa>
+  <localita><![CDATA[Torino - km 163]]></localita>
+  <virtuale>0</virtuale>
+  <classifica>
+      <item> 
+       <pos>1</pos>
+       <nome numero="179"><![CDATA[VAN EMDEN Jos]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra>
+       <tempo>61</tempo> 
+      </item>
+      <item> 
+       <pos>2</pos>
+       <nome numero="178"><![CDATA[TJALLINGII Maarten]]></nome>
+       <nazione>NED</nazione>
+       <squadra id="TLJ"><![CDATA[TEAM LOTTO NL - JUMBO]]></squadra>
+       <tempo>57</tempo> 
+      </item>
+		
+  </classifica>
+</feed>
